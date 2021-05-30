@@ -5,7 +5,7 @@ const { VueLoaderPlugin } = require('vue-loader');
 const config = {
   entry: ['@babel/polyfill', './src/main.js'],
   output: {
-    path: path.resolve(__dirname + '/dist'),
+    path: path.resolve(__dirname + '/docs'),
     filename: '[name].build.js',
   },  
   plugins:[
@@ -17,7 +17,7 @@ const config = {
     new VueLoaderPlugin(),
   ],
   devServer: {
-    contentBase: path.join(__dirname, 'dist'),
+    contentBase: path.join(__dirname, 'docs'),
     compress: true,
     port: 3000,
     hot: true,

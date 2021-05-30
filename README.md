@@ -1,2 +1,2 @@
 # Guide-Page
-Open [Guide-Page](https://jorypein.github.io/Guide-Page/dist/)
+Open [Guide-Page](https://jorypein.github.io/Guide-Page)
