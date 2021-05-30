@@ -1,0 +1,1526 @@
+{
+  "list": [
+    {
+      "name": "搜索",
+      "list": [
+        {
+          "name": "Google",
+          "id": "google",
+          "color": "4285f4",
+          "url": [
+            "https://www.google.com/search?q=",
+            "&safe=off"
+          ]
+        },
+        {
+          "name": "DuckDuckGo",
+          "id": "duckduckgo",
+          "color": "de5833",
+          "url": [
+            "https://duckduckgo.com/?q="
+          ]
+        },
+        {
+          "name": "DuckDuckGoO",
+          "id": "duckduckgoo",
+          "color": "de5833",
+          "url": [
+            "https://3g2upl4pq6kufc4m.onion/?q=",
+            "&ia=web"
+          ]
+        },
+        {
+          "name": "Bing",
+          "id": "bing",
+          "color": "ffb300",
+          "url": [
+            "https://cn.bing.com/search?q="
+          ]
+        },
+        {
+          "name": "百度",
+          "id": "baidu",
+          "color": "3388ff",
+          "url": [
+            "https://www.baidu.com/s?wd="
+          ]
+        },
+        {
+          "name": "Yandex",
+          "id": "yandex",
+          "color": "FF0000",
+          "url": [
+            "https://yandex.com/search/?text="
+          ]
+        },
+        {
+          "name": "Yahoo",
+          "id": "yahoo",
+          "color": "824dfe",
+          "url": [
+            "https://search.yahoo.com/search?p="
+          ]
+        },
+        {
+          "name": "Yahoo Japan",
+          "id": "yahoojp",
+          "color": "824dfe",
+          "url": [
+            "https://search.yahoo.co.jp/search?p="
+          ]
+        },
+        {
+          "name": "Naver",
+          "id": "naver",
+          "color": "03CF5D",
+          "url": [
+            "https://search.naver.com/search.naver?query="
+          ]
+        },
+        {
+          "name": "搜狗",
+          "id": "sogou",
+          "color": "fd6853",
+          "url": [
+            "https://www.sogou.com/web?query="
+          ]
+        },
+        {
+          "name": " 360",
+          "id": "so360",
+          "color": "19b955",
+          "url": [
+            "https://www.so.com/s?q="
+          ]
+        },
+        {
+          "name": "Magi",
+          "id": "magi",
+          "color": "14A2F5",
+          "url": [
+            "https://magi.com/search?q="
+          ]
+        },
+        {
+          "name": "Ahmia",
+          "id": "ahmia",
+          "color": "303030",
+          "url": [
+            "http://msydqstlz2kzerdg.onion/search/?q="
+          ]
+        },
+        {
+          "name": "not Evil",
+          "id": "notEvil",
+          "color": "303030",
+          "url": [
+            "http://hss3uro2hsxfogfq.onion/index.php?q="
+          ]
+        },
+        {
+          "name": "OneSearch",
+          "id": "onesearch",
+          "color": "424246",
+          "url": [
+            "https://www.onesearch.com/?q="
+          ]
+        },
+        {
+          "name": "Teoma",
+          "id": "teoma",
+          "color": "A64131",
+          "url": [
+            "https://www.teoma.co.uk/web?q="
+          ]
+        },
+        {
+          "name": "Izito",
+          "id": "izito",
+          "color": "592260",
+          "url": [
+            "https://www.izito.ws/?q="
+          ]
+        },
+        {
+          "name": "Zapmeta",
+          "id": "zapmeta",
+          "color": "F4B438",
+          "url": [
+            "https://www.zapmeta.ws/?q="
+          ]
+        },
+        {
+          "name": "DarkSearch",
+          "id": "darksearch",
+          "color": "2a2f35",
+          "url": [
+            "https://darksearch.io/search?query="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Code",
+      "list": [
+        {
+          "name": "GitHub Resp",
+          "id": "githubresp",
+          "color": "81d364",
+          "url": [
+            "https://github.com/search?q="
+          ]
+        },
+        {
+          "name": "GitHub Code",
+          "id": "githubcode",
+          "color": "81d364",
+          "url": [
+            "https://github.com/search?q=",
+            "&type=Code"
+          ]
+        },
+        {
+          "name": "GitHub Gist",
+          "id": "gistgithub",
+          "color": "21262d",
+          "url": [
+            "https://gist.github.com/search?q="
+          ]
+        },
+        {
+          "name": "Gitlab",
+          "id": "gitlab",
+          "color": "292961",
+          "url": [
+            "https://gitlab.com/search?utf8=%E2%9C%93&search="
+          ]
+        },
+        {
+          "name": "GitOSC",
+          "id": "gitOSC",
+          "color": "ca1212",
+          "url": [
+            "https://git.oschina.net/search?search="
+          ]
+        },
+        {
+          "name": "Code",
+          "id": "csdnCode",
+          "color": "48525e",
+          "url": [
+            "https://code.csdn.net/search?search="
+          ]
+        },
+        {
+          "name": "Pudn",
+          "id": "pudn",
+          "color": "1ab394",
+          "url": [
+            "http://search.pudn.com/Read/index?content_type=read&keyword="
+          ]
+        },
+        {
+          "name": "Nuget",
+          "id": "nuget",
+          "color": "BC6D00",
+          "url": [
+            "https://www.nuget.org/packages?q="
+          ]
+        },
+        {
+          "name": "NPM",
+          "id": "npmjs",
+          "color": "FB3E44",
+          "url": [
+            "https://www.npmjs.com/search?q="
+          ]
+        },
+        {
+          "name": "PyPi",
+          "id": "pypi",
+          "color": "0073B7",
+          "url": [
+            "https://pypi.org/search/?q="
+          ]
+        },
+        {
+          "name": "RubyGems",
+          "id": "rubygems",
+          "color": "E9573F",
+          "url": [
+            "https://rubygems.org/search?utf8=✓&query="
+          ]
+        },
+        {
+          "name": "RubyGemsCN",
+          "id": "gemsrubychina",
+          "color": "E9573F",
+          "url": [
+            "https://gems.ruby-china.com/search?query="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "参考",
+      "list": [
+        {
+          "name": "StackOverflow",
+          "id": "stackoverflow",
+          "color": "f48024",
+          "url": [
+            "http://stackoverflow.com/search?q="
+          ]
+        },
+        {
+          "name": "Teratail",
+          "id": "teratail",
+          "color": "12C74B",
+          "url": [
+            "https://teratail.com/search?q="
+          ]
+        },
+        {
+          "name": "菜鸟教程",
+          "id": "runoob",
+          "color": "96B97D",
+          "url": [
+            "http://www.runoob.com/?s="
+          ]
+        },
+        {
+          "name": "OutOfMemory",
+          "id": "outofmemory",
+          "color": "244eb1",
+          "url": [
+            "http://outofmemory.cn/search?q="
+          ]
+        },
+        {
+          "name": "Android Devs",
+          "id": "AndroidDevelopers",
+          "color": "6ab344",
+          "url": [
+            "https://developer.android.com/index.html#q="
+          ]
+        },
+        {
+          "name": "PHP",
+          "id": "phpnet",
+          "color": "8892BF",
+          "url": [
+            "http://php.net/manual-lookup.php?pattern="
+          ]
+        },
+        {
+          "name": "StackExchange",
+          "id": "stackexchange",
+          "color": "195398",
+          "url": [
+            "https://stackexchange.com/search?q="
+          ]
+        },
+        {
+          "name": "SegmentFault",
+          "id": "segmentfault",
+          "color": "009a61",
+          "url": [
+            "https://segmentfault.com/search?q="
+          ]
+        },
+        {
+          "name": "CSDN",
+          "id": "csdn",
+          "color": "be1a21",
+          "url": [
+            "https://so.csdn.net/so/search/s.do?q="
+          ]
+        },
+        {
+          "name": "MSDN",
+          "id": "msdn",
+          "color": "000",
+          "url": [
+            "https://social.msdn.microsoft.com/Search/en-US?query="
+          ]
+        },
+        {
+          "name": "MSDN-ZH",
+          "id": "msdnzh",
+          "color": "000",
+          "url": [
+            "https://social.msdn.microsoft.com/Search/zh-CN?query="
+          ]
+        },
+        {
+          "name": "Python3 Doc",
+          "id": "python3documentation",
+          "color": "0073B7",
+          "url": [
+            "https://docs.python.org/3/search.html?q="
+          ]
+        },
+        {
+          "name": "Mozilla Dev",
+          "id": "MozillaDev",
+          "color": "000",
+          "url": [
+            "https://developer.mozilla.org/en-US/search?q="
+          ]
+        },
+        {
+          "name": "Ubuntu",
+          "id": "ubuntu",
+          "color": "DD6D41",
+          "url": [
+            "https://ubuntu.com/search?q="
+          ]
+        },
+        {
+          "name": "Ubuntu Manuals",
+          "id": "manpagesubuntu",
+          "color": "DD6D41",
+          "url": [
+            "http://manpages.ubuntu.com/cgi-bin/search.py?q="
+          ]
+        },
+        {
+          "name": "Stackoom",
+          "id": "stackoom",
+          "color": "FF7F27",
+          "url": [
+            "https://stackoom.com/search?q="
+          ]
+        },
+        {
+          "name": "GoDoc",
+          "id": "godoc",
+          "color": "375EAB",
+          "url": [
+            "https://godoc.org/?q="
+          ]
+        },
+        {
+          "name": "GoDev",
+          "id": "pkggodev",
+          "color": "007D9C",
+          "url": [
+            "https://pkg.go.dev/search?q="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "资源",
+      "list": [
+        {
+          "name": "Source Forge",
+          "id": "sourceforge",
+          "color": "ff6600",
+          "url": [
+            "https://sourceforge.net/directory/?q="
+          ]
+        },
+        {
+          "name": "RSSHUB",
+          "id": "rsshub",
+          "color": "FF8549",
+          "url": [
+            "https://rsshub.app/"
+          ]
+        },
+        {
+          "name": "Ubuntu Package",
+          "id": "ubuntupackages",
+          "color": "DD6D41",
+          "url": [
+            "https://packages.ubuntu.com/search?searchon=names&suite=all&section=all&keywords="
+          ]
+        },
+        {
+          "name": "Sublime Package",
+          "id": "packagecontrol",
+          "color": "FC9701",
+          "url": [
+            "https://packagecontrol.io/search/"
+          ]
+        },
+        {
+          "name": "DockerHub",
+          "id": "dockerhub",
+          "color": "099CEC",
+          "url": [
+            "https://hub.docker.com/search/?q="
+          ]
+        },
+        {
+          "name": "Tor Relay",
+          "id": "TorRelay",
+          "color": "7C4597",
+          "url": [
+            "https://metrics.torproject.org/rs.html#search/"
+          ]
+        },
+        {
+          "name": "WikiDll",
+          "id": "wikidll",
+          "color": "3496E0",
+          "url": [
+            "https://wikidll.com/search?name="
+          ]
+        },
+        {
+          "name": "脚本之家",
+          "id": "jbzj-bd",
+          "color": "A24937",
+          "url": [
+            "https://www.baidu.com/s?wd=",
+            " inurl:www.jb51.net"
+          ]
+        },
+        {
+          "name": "Shodan",
+          "id": "Shodan",
+          "color": "c61612",
+          "url": [
+            "https://www.shodan.io/search?query="
+          ]
+        },
+        {
+          "name": "ZoomEye",
+          "id": "Zoomeye",
+          "color": "01acfe",
+          "url": [
+            "https://www.zoomeye.org/searchResult?q="
+          ]
+        },
+        {
+          "name": "Censys",
+          "id": "censys",
+          "color": "4688F1",
+          "url": [
+            "https://censys.io/domain?q="
+          ]
+        },
+        {
+          "name": "FOFA",
+          "id": "fofa",
+          "color": "439AFF",
+          "url": [
+            "https://fofa.so/result?q="
+          ]
+        },
+        {
+          "name": "VirusTotal",
+          "id": "virustotal",
+          "color": "4758E4",
+          "url": [
+            "https://www.virustotal.com/gui/search/"
+          ]
+        },
+        {
+          "name": "微盘",
+          "id": "vdisk",
+          "color": "347AAA",
+          "url": [
+            "https://vdisk.weibo.com/search/?type=public&keyword="
+          ]
+        },
+        {
+          "name": "BTfan",
+          "id": "btfan",
+          "color": "F30A0D",
+          "url": [
+            "http://btfan.com/key/"
+          ]
+        },
+        {
+          "name": "AioSearch",
+          "id": "aiosearch",
+          "color": "FF4DA9",
+          "url": [
+            "https://www.aiosearch.com/search/4/Torrents/"
+          ]
+        },
+        {
+          "name": "Kickass Torrents",
+          "id": "kickasstorrents",
+          "color": "594C2D",
+          "url": [
+            "https://kat.sx/search.php?q="
+          ]
+        },
+        {
+          "name": "Torrent Download",
+          "id": "torrentdownload",
+          "color": "175588",
+          "url": [
+            "https://www.torrentdownload.info/search?q="
+          ]
+        },
+        {
+          "name": "搜百度盘",
+          "id": "sobaidupan",
+          "color": "286090",
+          "url": [
+            "https://www.sobaidupan.com/search.asp?wd="
+          ]
+        },
+        {
+          "name": "云铺子",
+          "id": "yunpz",
+          "color": "888888",
+          "url": [
+            "https://www.yunpz.net/all/s-",
+            ".html"
+          ]
+        },
+        {
+          "name": "搜漫",
+          "id": "soman",
+          "color": "FE254F",
+          "url": [
+            "https://www.soman.com/search.html?keyword="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "社区",
+      "list": [
+        {
+          "name": "经验",
+          "id": "jingyan",
+          "color": "43bf0f",
+          "url": [
+            "http://jingyan.baidu.com/search?word="
+          ]
+        },
+        {
+          "name": "知道",
+          "id": "zhidao",
+          "color": "2bb453",
+          "url": [
+            "http://zhidao.baidu.com/search?word="
+          ]
+        },
+        {
+          "name": "知道2",
+          "id": "zhidao2",
+          "color": "2bb453",
+          "url": [
+            "http://zhidao.baidu.com/search?word=",
+            "是什么意思"
+          ]
+        },
+        {
+          "name": "教えて!goo",
+          "id": "oshietegoojp",
+          "color": "CC3333",
+          "url": [
+            "https://oshiete.goo.ne.jp/search_goo/result/?MT=",
+            "&code=utf8"
+          ]
+        },
+        {
+          "name": "Quora",
+          "id": "quora",
+          "color": "b92b27",
+          "url": [
+            "https://www.quora.com/?q="
+          ]
+        },
+        {
+          "name": "知乎",
+          "id": "zhihu",
+          "color": "137ad5",
+          "url": [
+            "https://www.zhihu.com/search?q="
+          ]
+        },
+        {
+          "name": "Reddit",
+          "id": "reddit",
+          "color": "FF4500",
+          "url": [
+            "https://www.reddit.com/search?q="
+          ]
+        },
+        {
+          "name": "贴吧",
+          "id": "tieba",
+          "color": "5b95f0",
+          "url": [
+            "http://tieba.baidu.com/f?kw="
+          ]
+        },
+        {
+          "name": "微博",
+          "id": "SinaWeibo",
+          "color": "ff9b37",
+          "url": [
+            "http://s.weibo.com/weibo/"
+          ]
+        },
+        {
+          "name": "微信",
+          "id": "weixin",
+          "color": "06b04f",
+          "url": [
+            "http://weixin.sogou.com/weixin?type=2&query="
+          ]
+        },
+        {
+          "name": "2ch",
+          "id": "twoch",
+          "color": "6e80aa",
+          "url": [
+            "http://find.2ch.sc/?STR="
+          ]
+        },
+        {
+          "name": "CNKI",
+          "id": "cnki",
+          "color": "f48400",
+          "url": [
+            "http://scholar.cnki.net/result.aspx?q="
+          ]
+        },
+        {
+          "name": "豆瓣",
+          "id": "douban",
+          "color": "228a31",
+          "url": [
+            "https://www.douban.com/search?q="
+          ]
+        },
+        {
+          "name": "果壳",
+          "id": "guokr",
+          "color": "a5d92e",
+          "url": [
+            "http://www.guokr.com/search/all/?wd="
+          ]
+        },
+        {
+          "name": "简书",
+          "id": "jianshu",
+          "color": "ea6f5a",
+          "url": [
+            "http://www.jianshu.com/search?q="
+          ]
+        },
+        {
+          "name": "酷安",
+          "id": "cookapk",
+          "color": "57C65C",
+          "url": [
+            "https://www.coolapk.com/search?q="
+          ]
+        },
+        {
+          "name": "Livedoor",
+          "id": "livedoor",
+          "color": "da0b16",
+          "url": [
+            "http://search.livedoor.com/search?q="
+          ]
+        },
+        {
+          "name": "看雪论坛",
+          "id": "bbspediy",
+          "color": "1CA4F0",
+          "url": [
+            "https://bbs.pediy.com/search.htm?keyword="
+          ]
+        },
+        {
+          "name": "SoV2ex",
+          "id": "sov2ex",
+          "color": "03A9F4",
+          "url": [
+            "https://www.sov2ex.com/?q="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "百科",
+      "list": [
+        {
+          "name": "Wikipedia",
+          "id": "wikien",
+          "color": "3963cd",
+          "url": [
+            "https://en.wikipedia.org/w/index.php?search="
+          ]
+        },
+        {
+          "name": "维基百科[日]",
+          "id": "wikipediajp",
+          "color": "3963cd",
+          "url": [
+            "https://ja.m.wikipedia.org/wiki/"
+          ]
+        },
+        {
+          "name": "维基百科",
+          "id": "wikizh",
+          "color": "3963cd",
+          "url": [
+            "https://zh.wikipedia.org/w/index.php?search="
+          ]
+        },
+        {
+          "name": "百度百科",
+          "id": "baidubaike",
+          "color": "3388ff",
+          "url": [
+            "http://baike.baidu.com/search?word="
+          ]
+        },
+        {
+          "name": "互动百科",
+          "id": "HudongBaike",
+          "color": "ff9423",
+          "url": [
+            "http://www.baike.com/wiki/?kw="
+          ]
+        },
+        {
+          "name": "Wikileaks",
+          "id": "wikileaks",
+          "color": "4D5F69",
+          "url": [
+            "https://search.wikileaks.org/?q="
+          ]
+        },
+        {
+          "name": "萌娘百科",
+          "id": "moegirl",
+          "color": "222222",
+          "url": [
+            "https://zh.moegirl.org/index.php?search="
+          ]
+        },
+        {
+          "name": "GOT Wiki",
+          "id": "GOTWiki",
+          "color": "222222",
+          "url": [
+            "http://gameofthrones.wikia.com/wiki/Special:Search?search="
+          ]
+        },
+        {
+          "name": "煮酒论史",
+          "id": "tianya",
+          "color": "0084c4",
+          "url": [
+            "http://search.tianya.cn/bbs?q="
+          ]
+        },
+        {
+          "name": "殆知阁",
+          "id": "fanren8",
+          "color": "337ab7",
+          "url": [
+            "http://122.200.75.13/result.php"
+          ]
+        },
+        {
+          "name": "搜神",
+          "id": "soshen",
+          "color": "359a34",
+          "url": [
+            "http://m.soshen.cn/spring/soshen/search?canshu="
+          ]
+        },
+        {
+          "name": "Readthedocs",
+          "id": "readthedocs",
+          "color": "7C8F99",
+          "url": [
+            "https://readthedocs.org/search/?q="
+          ]
+        },
+        {
+          "name": "英文名911",
+          "id": "yingwenming911cha",
+          "color": "00A8F9",
+          "url": [
+            "https://yingwenming.911cha.com/",
+            ".html"
+          ]
+        },
+        {
+          "name": "Wikidiff",
+          "id": "wikidiff",
+          "color": "FF0000",
+          "url": [
+            "https://wikidiff.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "阅读",
+      "list": [
+        {
+          "name": "百度文库",
+          "id": "baiduwenku",
+          "color": "21BB8B",
+          "url": [
+            "http://wenku.baidu.com/search?word="
+          ]
+        },
+        {
+          "name": "Enbookfi",
+          "id": "enbookfi",
+          "color": "8ECD51",
+          "url": [
+            "http://en.bookfi.net/s/?q=",
+            "&t=0"
+          ]
+        },
+        {
+          "name": "PDF",
+          "id": "pdfSearchEngine",
+          "color": "FA7575",
+          "url": [
+            "http://pdf-downloads.net/",
+            "-pdf.html"
+          ]
+        },
+        {
+          "name": "OfficeView",
+          "id": "officeapps",
+          "color": "2B579A",
+          "url": [
+            "https://view.officeapps.live.com/op/view.aspx?src="
+          ]
+        },
+        {
+          "name": "豆瓣读书",
+          "id": "readdouban",
+          "color": "389EAC",
+          "url": [
+            "https://read.douban.com/search?q="
+          ]
+        },
+        {
+          "name": "网易云读书",
+          "id": "yuedu163",
+          "color": "C9483C",
+          "url": [
+            "https://yuedu.163.com/search.do?key="
+          ]
+        },
+        {
+          "name": "GooglePDF",
+          "id": "googlepdf",
+          "color": "4285f4",
+          "url": [
+            "https://www.google.com/search?safe=off&q=",
+            "%20filetype:pdf"
+          ]
+        },
+        {
+          "name": "EbookPDF",
+          "id": "ebookpdf",
+          "color": "C9483C",
+          "url": [
+            "https://ebookpdf.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "词典",
+      "list": [
+        {
+          "name": "Google Translate",
+          "id": "googletranslate",
+          "color": "000",
+          "url": [
+            "https://translate.google.cn/#view=home&op=translate&sl=auto&tl=zh-CN&text="
+          ]
+        },
+        {
+          "name": "Yandex Translate",
+          "id": "yandextranslate",
+          "color": "f00",
+          "url": [
+            "https://translate.yandex.com/?family=yes&lang=en-zh&text="
+          ]
+        },
+        {
+          "name": "Etymology",
+          "id": "etymonline",
+          "color": "700020",
+          "url": [
+            "http://www.etymonline.com/index.php?search="
+          ]
+        },
+        {
+          "name": "Dictionary",
+          "id": "Dictc",
+          "color": "3c7bbe",
+          "url": [
+            "http://www.dictionary.com/browse/?kw="
+          ]
+        },
+        {
+          "name": "FreeDict",
+          "id": "FreeDict",
+          "color": "2eb398",
+          "url": [
+            "http://www.thefreedictionary.com/?kw="
+          ]
+        },
+        {
+          "name": "Webster",
+          "id": "merriam-webster",
+          "color": "2D5F7C",
+          "url": [
+            "https://www.merriam-webster.com/dictionary/"
+          ]
+        },
+        {
+          "name": "Urban",
+          "id": "UrbanDict",
+          "color": "1d2439",
+          "url": [
+            "http://www.urbandictionary.com/define.php?term="
+          ]
+        },
+        {
+          "name": "Bing",
+          "id": "bingdict",
+          "color": "0078d7",
+          "url": [
+            "https://cn.bing.com/dict/search?q="
+          ]
+        },
+        {
+          "name": "Eudic",
+          "id": "Eudic",
+          "color": "64B5FF",
+          "url": [
+            "http://dict.eudic.net/dicts/en/"
+          ]
+        },
+        {
+          "name": "海词",
+          "id": "SeaDict",
+          "color": "2fb8cb",
+          "url": [
+            "http://dict.cn/"
+          ]
+        },
+        {
+          "name": "大词典",
+          "id": "dacidian",
+          "color": "337AB7",
+          "url": [
+            "https://www.dacidian.net/en/",
+            ".html"
+          ]
+        },
+        {
+          "name": "新东方在线英语词典",
+          "id": "koolearn",
+          "color": "00BDC3",
+          "url": [
+            "https://www.koolearn.com/dict/search/index?keywords="
+          ]
+        },
+        {
+          "name": "有道",
+          "id": "YoudaoDict",
+          "color": "e31435",
+          "url": [
+            "http://dict.youdao.com/w/eng/"
+          ]
+        },
+        {
+          "name": "爱词霸",
+          "id": "Iciba",
+          "color": "1596f5",
+          "url": [
+            "http://www.iciba.com/"
+          ]
+        },
+        {
+          "name": "沪江法语",
+          "id": "HJFR",
+          "color": "8bc71a",
+          "url": [
+            "https://dict.hjenglish.com/fr/"
+          ]
+        },
+        {
+          "name": "汉典",
+          "id": "zdic",
+          "color": "c5a17f",
+          "url": [
+            "http://www.zdic.net/search/?c=1&q="
+          ]
+        },
+        {
+          "name": "象形字典",
+          "id": "vividict",
+          "color": "3482c9",
+          "url": [
+            "http://www.vividict.com/Word.aspx?ie=utf8&wd="
+          ]
+        },
+        {
+          "name": "字源",
+          "id": "cnetymology",
+          "color": "F18BF3",
+          "url": [
+            "http://www.chineseetymology.org/CharacterEtymology.aspx?characterInput="
+          ]
+        },
+        {
+          "name": "潮州音",
+          "id": "Teochow",
+          "color": "896E5D",
+          "url": [
+            "http://www.mogher.com/"
+          ]
+        },
+        {
+          "name": "潮州音字典",
+          "id": "czyzd",
+          "color": "003366",
+          "url": [
+            "http://www.czyzd.com/"
+          ]
+        },
+        {
+          "name": "沪江日语",
+          "id": "HJJP",
+          "color": "8bc71a",
+          "url": [
+            "https://dict.hjenglish.com/jp/jc/"
+          ]
+        },
+        {
+          "name": "KotobankJP",
+          "id": "kotobankjp",
+          "color": "1a1a1a",
+          "url": [
+            "https://kotobank.jp/word/"
+          ]
+        },
+        {
+          "name": "小楠日语",
+          "id": "xiaocidian",
+          "color": "333333",
+          "url": [
+            "http://o-oo.net.cn/xiaocidian/"
+          ]
+        },
+        {
+          "name": "漢字辞典",
+          "id": "kjjt",
+          "color": "000000",
+          "url": [
+            "http://kanji.jitenon.jp/cat/search.php?getdata="
+          ]
+        },
+        {
+          "name": "Weblio辞書",
+          "id": "weblio",
+          "color": "393939",
+          "url": [
+            "https://www.weblio.jp/content/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "视频",
+      "list": [
+        {
+          "name": "YouTube",
+          "id": "youtube",
+          "color": "cc181e",
+          "url": [
+            "https://www.youtube.com/results?search_query="
+          ]
+        },
+        {
+          "name": "DailyMotion",
+          "id": "dailymotion",
+          "color": "0066DC",
+          "url": [
+            "http://www.dailymotion.com/jp/relevance/universal/search/"
+          ]
+        },
+        {
+          "name": "ACFUN",
+          "id": "ACFUN",
+          "color": "fd4c5d",
+          "url": [
+            "http://www.acfun.cn/search/#query="
+          ]
+        },
+        {
+          "name": "bilibili",
+          "id": "bilibili",
+          "color": "00A1D6",
+          "url": [
+            "http://search.bilibili.com/all?keyword="
+          ]
+        },
+        {
+          "name": "搜库",
+          "id": "soku",
+          "color": "53b7f7",
+          "url": [
+            "http://www.soku.com/search_video?keyword="
+          ]
+        },
+        {
+          "name": "腾讯视频",
+          "id": "qqvideo",
+          "color": "ff920b",
+          "url": [
+            "https://v.qq.com/x/search/?q="
+          ]
+        },
+        {
+          "name": "范特西",
+          "id": "fantasy",
+          "color": "ff6600",
+          "url": [
+            "https://www.onln.cn/search.html?search="
+          ]
+        },
+        {
+          "name": "爱奇艺",
+          "id": "Iqiyi",
+          "color": "72ad00",
+          "url": [
+            "http://so.iqiyi.com/so/q_"
+          ]
+        },
+        {
+          "name": "乐看",
+          "id": "letv",
+          "color": "e42112",
+          "url": [
+            "http://so.le.com/s?wd="
+          ]
+        },
+        {
+          "name": "IMDb",
+          "id": "imdb",
+          "color": "e4bb25",
+          "url": [
+            "http://www.imdb.com/find?q="
+          ]
+        },
+        {
+          "name": "SubScene",
+          "id": "SubScene",
+          "color": "1d445a",
+          "url": [
+            "https://subscene.com/subtitles/title?q="
+          ]
+        },
+        {
+          "name": "TED",
+          "id": "ted",
+          "color": "e62b1e",
+          "url": [
+            "http://www.ted.com/search?q="
+          ]
+        },
+        {
+          "name": "Coursera",
+          "id": "coursera",
+          "color": "428bca",
+          "url": [
+            "https://www.coursera.org/courses?query="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "图片",
+      "list": [
+        {
+          "name": "Google Image",
+          "id": "googleimage",
+          "color": "000000",
+          "url": [
+            "https://www.google.com.hk/search?q="
+          ]
+        },
+        {
+          "name": "Yandex Image",
+          "id": "yandeximage",
+          "color": "ff0000",
+          "url": [
+            "https://yandex.com/images/search?text="
+          ]
+        },
+        {
+          "name": "Bing Image",
+          "id": "bingimage",
+          "color": "007DAA",
+          "url": [
+            "https://cn.bing.com/images/search?q="
+          ]
+        },
+        {
+          "name": "百度图片",
+          "id": "baiduimage",
+          "color": "3388ff",
+          "url": [
+            "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&word="
+          ]
+        },
+        {
+          "name": "Tumblr",
+          "id": "tumblr",
+          "color": "2f3d51",
+          "url": [
+            "https://www.tumblr.com/search?q="
+          ]
+        },
+        {
+          "name": "Pinterest",
+          "id": "pinterest",
+          "color": "bd081c",
+          "url": [
+            "https://www.pinterest.com/search/?q="
+          ]
+        },
+        {
+          "name": "搜狗",
+          "id": "sougouimage",
+          "color": "454251",
+          "url": [
+            "http://pic.sogou.com/pics?query="
+          ]
+        },
+        {
+          "name": "花瓣",
+          "id": "petal",
+          "color": "D43636",
+          "url": [
+            "http://huaban.com/search/?q="
+          ]
+        },
+        {
+          "name": "Pixabay",
+          "id": "Pixabay",
+          "color": "333",
+          "url": [
+            "https://pixabay.com/zh/photos/?q="
+          ]
+        },
+        {
+          "name": "IconPng",
+          "id": "iconpng",
+          "color": "8CDE22",
+          "url": [
+            "http://www.iconpng.com/search/tag="
+          ]
+        },
+        {
+          "name": "EasyIcon",
+          "id": "EasyIcon",
+          "color": "76D17F",
+          "url": [
+            "http://www.easyicon.net/language.en/iconsearch/"
+          ]
+        },
+        {
+          "name": "腾讯动漫",
+          "id": "TecentCartoon",
+          "color": "fa9144",
+          "url": [
+            "http://ac.qq.com/Comic/searchList/search/"
+          ]
+        },
+        {
+          "name": "动漫之家",
+          "id": "dmzj",
+          "color": "049FC0",
+          "url": [
+            "http://manhua.dmzj.com/tags/search.shtml?s="
+          ]
+        },
+        {
+          "name": "9GAG",
+          "id": "ninegag",
+          "color": "000000",
+          "url": [
+            "http://9gag.com/search?query="
+          ]
+        },
+        {
+          "name": "Iconfont",
+          "id": "iconfont",
+          "color": "090723",
+          "url": [
+            "https://www.iconfont.cn/search/index?q="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "音乐",
+      "list": [
+        {
+          "name": "音悦Tai",
+          "id": "yinyuetai",
+          "color": "669900",
+          "url": [
+            "http://so.yinyuetai.com/mv?keyword="
+          ]
+        },
+        {
+          "name": "网易云",
+          "id": "neteasymusic",
+          "color": "c70c0c",
+          "url": [
+            "http://music.163.com/#/search/m/?s="
+          ]
+        },
+        {
+          "name": "虾米",
+          "id": "xiami",
+          "color": "F98320",
+          "url": [
+            "http://www.xiami.com/search?key="
+          ]
+        },
+        {
+          "name": "酷我",
+          "id": "kuwo",
+          "color": "333333",
+          "url": [
+            "http://sou.kuwo.cn/ws/NSearch?key="
+          ]
+        },
+        {
+          "name": "百度",
+          "id": "baidumusic",
+          "color": "337ccb",
+          "url": [
+            "http://music.baidu.com/search?key="
+          ]
+        },
+        {
+          "name": "一听",
+          "id": "oneting",
+          "color": "009FFF",
+          "url": [
+            "http://so.1ting.com/all.do?q="
+          ]
+        },
+        {
+          "name": "喜马拉雅",
+          "id": "ximalaya",
+          "color": "ff4611",
+          "url": [
+            "http://www.ximalaya.com/search/all/kw/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "生活",
+      "list": [
+        {
+          "name": "淘宝",
+          "id": "taobao",
+          "color": "ff4400",
+          "url": [
+            "https://s.taobao.com/search?q="
+          ]
+        },
+        {
+          "name": "天猫",
+          "id": "tmall",
+          "color": "dd2727",
+          "url": [
+            "https://list.tmall.com/search_product.htm?q="
+          ]
+        },
+        {
+          "name": "京东",
+          "id": "jd",
+          "color": "c91623",
+          "url": [
+            "http://search.jd.com/Search?keyword=",
+            "&enc=utf-8"
+          ]
+        },
+        {
+          "name": "1688",
+          "id": "1688",
+          "color": "FF500B",
+          "url": [
+            "https://s.1688.com/selloffer/offer_search.htm?keywords="
+          ]
+        },
+        {
+          "name": "当当",
+          "id": "dandan",
+          "color": "ff2832",
+          "url": [
+            "http://search.dangdang.com/?key="
+          ]
+        },
+        {
+          "name": "Amazon",
+          "id": "amazon",
+          "color": "232f3e",
+          "url": [
+            "https://www.amazon.com/s/ref=nb_sb_noss?field-keywords="
+          ]
+        },
+        {
+          "name": "闲鱼",
+          "id": "xianyu",
+          "color": "333",
+          "url": [
+            "https://www.baidu.com/s?wd=",
+            " site:s.2.taobao.com"
+          ]
+        },
+        {
+          "name": "Google Map",
+          "id": "GoogleMap",
+          "color": "679DF6",
+          "url": [
+            "http://www.google.cn/maps/search/"
+          ]
+        },
+        {
+          "name": "高德地图",
+          "id": "gaodeditu",
+          "color": "0093FD",
+          "url": [
+            "http://ditu.amap.com/search?query="
+          ]
+        },
+        {
+          "name": "百度地图",
+          "id": "baiduditu",
+          "color": "0093FD",
+          "url": [
+            "http://map.baidu.com/?newmap=1&s=s%26wd%3D?wd="
+          ]
+        }
+      ]
+    }
+  ]
+}

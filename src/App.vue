@@ -1,0 +1,233 @@
+<template>
+  <body :style="{ backgroundImage: background_image_url }">
+    <div class="nav_menu">
+      <div class="nav">
+        <div class="list" id="navlist">
+          <ul id="navfocus">
+            <li v-for="sites in bookmarks" :key="sites.name">
+              <a
+                href="#"
+                @mouseover="hoverNav(sites.name, 1)"
+                @mouseout="hoverNav(sites.name, 0)"
+                >{{ sites.name }}</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div
+          class="box"
+          id="navbox"
+          style="height: 0px; opacity: 0; overflow: hidden"
+        >
+          <div
+            class="cont"
+            style="display: none"
+            v-for="set in bookmarks"
+            :key="set.name"
+            :id="set.name"
+            @mouseover="hoverBox(set.name, 1)"
+            @mouseout="hoverBox(set.name, 0)"
+          >
+            <ul class="sublist clearfix">
+              <li v-for="sites in set.list" :key="sites.name">
+                <h3 class="mcate-item-hd">
+                  <span>{{ sites.name }}</span>
+                </h3>
+                <p class="mcate-item-bd">
+                  <a
+                    v-for="site in sites.list"
+                    :key="site.name"
+                    :href="site.url"
+                    target="_blank"
+                  >
+                    {{ site.name }}
+                  </a>
+                </p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="search-box">
+      <div
+        class="classTitle"
+        style="background-color: #007d9c; width: 860px; border-radius: 10px"
+      >
+        <el-link
+          v-for="item in search_form"
+          :key="item.name"
+          :underline="false"
+          @mouseenter.native="enterClass(item)"
+          style="padding: 15px; color: #fff"
+          :style="default_link_style[item.name]"
+        >
+          {{ item.name }}
+        </el-link>
+      </div>
+      <el-input
+        placeholder=""
+        v-model="keyword"
+        resize="none"
+        rows="1"
+        @keyup.enter.native="Search('bing')"
+        style="width: 860px; outline: none; font-size: 18px"
+      >
+      </el-input>
+      <div style="margin-top: 30px; width: 900px">
+        <el-button
+          v-for="item in search_form_sub.list"
+          @click="Search(item.id)"
+          :key="item.id"
+          style="
+            width: 150px;
+            margin-bottom: 20px;
+            margin-left: 15px;
+            color: #fff;
+            border: 0;
+          "
+          :style="btn_style[item.id]"
+        >
+          {{ item.name }}
+        </el-button>
+      </div>
+    </div>
+  </body>
+</template>
+
+<script>
+import search_form_data from "@/static/data/searchs.json";
+import bookmark_data from "@/static/data/bookmarks.json";
+
+var search_form = search_form_data.list;
+var bookmarks = bookmark_data.list;
+var timeout = null;
+
+function getUrlByItems(items, keyword) {
+  var url = "";
+  if (items.length >= 1) {
+    url = items[0] + keyword;
+  }
+  if (items.length == 2) {
+    url += items[1];
+  }
+  return url;
+}
+export default {
+  methods: {
+    Search: function (id) {
+      let url = getUrlByItems(this.searchItemsDictionary[id].url, this.keyword);
+      window.open(url);
+    },
+    enterClass: function (item) {
+      this.default_link_style = this.get_default_link_style();
+      this.search_form_sub = item;
+      this.default_link_style[item.name] = {
+        color: "#ff0",
+      };
+    },
+    getSearchItemsDictionary: function () {
+      var dic = {};
+      search_form.forEach(function (class_item) {
+        class_item.list.forEach(function (site_item) {
+          dic[site_item.id] = site_item;
+        });
+      });
+      return dic;
+    },
+    getBtnStyle: function () {
+      var dic = {};
+      for (var id in this.searchItemsDictionary) {
+        dic[id] = {
+          "background-color": "#" + this.searchItemsDictionary[id].color,
+        };
+      }
+      return dic;
+    },
+    get_default_link_style: function () {
+      var dic = {};
+      for (var class_name in search_form) {
+        dic[class_name] = {
+          color: "#fff",
+        };
+      }
+      return dic;
+    },
+    showBox: function () {
+      let box = document.querySelector("#navbox");
+      box.style.height = `500px`;
+      box.style.opacity = 1;
+      box.style.transition = "height 0.4s, pacity 0.4s";
+    },
+    hideBox: function () {
+      let box = document.querySelector("#navbox");
+      box.style.height = 0;
+      box.style.opacity = 1;
+      box.style.transition = "height 0.4s, pacity 0.4s";
+    },
+    getContItem: function (itemName) {
+      let result = null;
+      document.querySelectorAll(".cont").forEach(function (contItem) {
+        if (contItem.id === itemName) {
+          result = contItem;
+        }
+      });
+      return result;
+    },
+    hoverNav: function (itemName, flag) {
+      var contItem = this.getContItem(itemName);
+      if (flag === 1) {
+        clearTimeout(timeout);
+        contItem.style.display = "block";
+        this.showBox();
+      } else {
+        contItem.style.display = "none";
+        timeout = setTimeout(() => {
+          this.hideBox();
+        }, 50);
+      }
+    },
+    hoverBox: function(itemName, flag) {
+      var contItem = this.getContItem(itemName);
+      if (flag == 1) {
+        clearTimeout(timeout);
+        contItem.style.display = "block";
+        this.showBox();
+      } else {
+        contItem.style.display = "none";
+        timeout = setTimeout(() => {
+          this.hideBox();
+        }, 50);
+      }
+    }
+  },
+  data() {
+    this.searchItemsDictionary = this.getSearchItemsDictionary();
+    this.search_form_sub = search_form[0];
+    this.btn_style = this.getBtnStyle();
+    this.default_link_style = this.get_default_link_style();
+    this.enterClass(this.search_form_sub);
+    return {
+      search_form: search_form,
+      bookmarks: bookmarks,
+      keyword: "",
+      search_form_sub: this.search_form_sub,
+      btn_style: this.btn_style,
+      default_link_style: this.default_link_style,
+      background_image_url:
+        "url(" + require("@/static/image/bg.png").default + ")",
+    };
+  },
+};
+</script>
+
+<style>
+@import "@/static/style/nav.css";
+
+div#search-box {
+  position: relative;
+  top: 100px;
+  width: 900px;
+  left: 200px;
+}
+</style>
