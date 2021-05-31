@@ -7,8 +7,8 @@
             <li v-for="sites in bookmarks" :key="sites.name">
               <a
                 href="#"
-                @mouseover="hoverNav(sites.name, 1)"
-                @mouseout="hoverNav(sites.name, 0)"
+                @mouseover="hoverBox(sites.name, 1)"
+                @mouseout="hoverBox(sites.name, 0)"
                 >{{ sites.name }}</a
               >
             </li>
@@ -48,6 +48,14 @@
           </div>
         </div>
       </div>
+    </div>
+    <div id="button-box" style="position: absolute; left: 150px; top: 250px">
+      <el-button
+        type="primary"
+        icon="el-icon-s-grid"
+        @click="dialogFormVisible = true"
+        circle
+      ></el-button>
     </div>
     <div id="search-box">
       <div
@@ -92,6 +100,24 @@
         </el-button>
       </div>
     </div>
+    <el-dialog title="Console" :visible.sync="dialogFormVisible">
+      <el-input
+        style="margin-top: -20px"
+        type="textarea"
+        :rows="8"
+        placeholder="Please input"
+        v-model="textarea"
+      >
+      </el-input>
+      <div style="margin-top: 10px">
+        <el-button type="primary" @click="base64encode()"
+          >Base64 Encode</el-button
+        >
+        <el-button type="primary" @click="base64decode()"
+          >Base64 Decode</el-button
+        >
+      </div>
+    </el-dialog>
   </body>
 </template>
 
@@ -102,6 +128,28 @@ import bookmark_data from "@/static/data/bookmarks.json";
 var search_form = search_form_data.list;
 var bookmarks = bookmark_data.list;
 var timeout = null;
+
+function encodeUnicode(str) {
+  return btoa(
+    encodeURIComponent(str).replace(
+      /%([0-9A-F]{2})/g,
+      function toSolidBytes(match, p1) {
+        return String.fromCharCode("0x" + p1);
+      }
+    )
+  );
+}
+
+function decodeUnicode(str) {
+  return decodeURIComponent(
+    atob(str)
+      .split("")
+      .map(function (c) {
+        return "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2);
+      })
+      .join("")
+  );
+}
 
 function getUrlByItems(items, keyword) {
   var url = "";
@@ -174,20 +222,7 @@ export default {
       });
       return result;
     },
-    hoverNav: function (itemName, flag) {
-      var contItem = this.getContItem(itemName);
-      if (flag === 1) {
-        clearTimeout(timeout);
-        contItem.style.display = "block";
-        this.showBox();
-      } else {
-        contItem.style.display = "none";
-        timeout = setTimeout(() => {
-          this.hideBox();
-        }, 50);
-      }
-    },
-    hoverBox: function(itemName, flag) {
+    hoverBox: function (itemName, flag) {
       var contItem = this.getContItem(itemName);
       if (flag == 1) {
         clearTimeout(timeout);
@@ -199,7 +234,13 @@ export default {
           this.hideBox();
         }, 50);
       }
-    }
+    },
+    base64encode: function () {
+      this.textarea = encodeUnicode(this.textarea);
+    },
+    base64decode: function () {
+      this.textarea = decodeUnicode(this.textarea);
+    },
   },
   data() {
     this.searchItemsDictionary = this.getSearchItemsDictionary();
@@ -216,6 +257,8 @@ export default {
       default_link_style: this.default_link_style,
       background_image_url:
         "url(" + require("@/static/image/bg.png").default + ")",
+      dialogFormVisible: false,
+      textarea: "",
     };
   },
 };
