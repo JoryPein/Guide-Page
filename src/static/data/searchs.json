@@ -156,6 +156,14 @@
           "url": [
             "https://darksearch.io/search?query="
           ]
+        },
+        {
+          "name": "WebCrawler",
+          "id": "webcrawler",
+          "color": "555",
+          "url": [
+            "https://www.webcrawler.com/serp?q="
+          ]
         }
       ]
     },
@@ -257,6 +265,14 @@
           "color": "E9573F",
           "url": [
             "https://gems.ruby-china.com/search?query="
+          ]
+        },
+        {
+          "name": "Greasy Fork",
+          "id": "greasyfork",
+          "color": "900",
+          "url": [
+            "https://greasyfork.org/en/scripts?q="
           ]
         }
       ]
