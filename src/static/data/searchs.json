@@ -598,6 +598,14 @@
           "url": [
             "https://www.soman.com/search.html?keyword="
           ]
+        },
+        {
+          "name": "Edge Addons",
+          "id": "microsoftedge",
+          "color": "05A6F0",
+          "url": [
+            "https://microsoftedge.microsoft.com/addons/search/"
+          ]
         }
       ]
     },
