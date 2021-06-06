@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "name": "Program",
+      "name": "Internet",
       "list": [
         {
           "name": "Code",
@@ -9,6 +9,10 @@
             {
               "name": "Github",
               "url": "https://github.com"
+            },
+            {
+              "name": "Github Trending",
+              "url": "https://github.com/trending"
             },
             {
               "name": "GithubGist",
@@ -33,14 +37,6 @@
             {
               "name": "CTOLib",
               "url": "http://www.ctolib.com/"
-            },
-            {
-              "name": "Github Trending",
-              "url": "https://github.com/trending"
-            },
-            {
-              "name": "Github New",
-              "url": "http://www.open-open.com/github/"
             },
             {
               "name": "CodePlex",
@@ -75,16 +71,8 @@
               "url": "http://www.programcreek.com/"
             },
             {
-              "name": "dll之家",
-              "url": "http://www.dllzj.com/index.html"
-            },
-            {
               "name": "在线API文档",
               "url": "http://tool.oschina.net/apidocs"
-            },
-            {
-              "name": "在线工具",
-              "url": "http://tool.oschina.net/"
             },
             {
               "name": "鱼C工作室",
@@ -101,16 +89,16 @@
             {
               "name": "80x86汇编小站",
               "url": "http://www.x86asm.com/#"
-            },
-            {
-              "name": "Golang playground",
-              "url": "https://play.golang.org/"
             }
           ]
         },
         {
           "name": "Web",
           "list": [
+            {
+              "name": "Cloudflare",
+              "url": "https://dash.cloudflare.com/"
+            },
             {
               "name": "W3Schools",
               "url": "http://www.w3schools.com/"
@@ -128,24 +116,12 @@
               "url": "http://jquery-plugins.net/"
             },
             {
-              "name": "Node.js API",
-              "url": "http://nodeapi.ucdok.com"
-            },
-            {
               "name": "RubyChina",
               "url": "https://ruby-china.org/"
             },
             {
               "name": "PHP中文网",
               "url": "http://www.uncletoo.com/"
-            },
-            {
-              "name": "Shodan",
-              "url": "https://www.shodan.io/"
-            },
-            {
-              "name": "ZoomEye",
-              "url": "http://www.zoomeye.org/"
             },
             {
               "name": "WEB骇客",
@@ -184,10 +160,6 @@
               "url": "http://www.wopus.org/"
             },
             {
-              "name": "JSRUN在线代码编辑器",
-              "url": "http://jsrun.net/"
-            },
-            {
               "name": "阿里云",
               "url": "https://www.aliyun.com/"
             },
@@ -196,20 +168,8 @@
               "url": "https://cloud.baidu.com/"
             },
             {
-              "name": "Wopus",
-              "url": "http://www.wopus.org/"
-            },
-            {
               "name": "石墨文档",
               "url": "https://shimo.im/"
-            },
-            {
-              "name": "Convert cURL command syntax",
-              "url": "https://curl.trillworks.com/"
-            },
-            {
-              "name": "Online JavaScript Beautifier",
-              "url": "https://beautifier.io/"
             }
           ]
         },
@@ -219,6 +179,10 @@
             {
               "name": "乌云",
               "url": "http://www.wooyun.org/"
+            },
+            {
+              "name": "先知社区",
+              "url": "https://xz.aliyun.com/"
             },
             {
               "name": "i春秋",
@@ -303,10 +267,6 @@
             {
               "name": "攻城狮论坛",
               "url": "http://bbs.vlan5.com/"
-            },
-            {
-              "name": "xmd5",
-              "url": "http://www.xmd5.org/"
             },
             {
               "name": "小残博客",
@@ -458,13 +418,41 @@
             {
               "name": "密码字典生成器",
               "url": "https://www.bugku.com/mima/"
+            },
+            {
+              "name": "xmd5",
+              "url": "http://www.xmd5.org/"
+            },
+            {
+              "name": "cmd5",
+              "url": "https://cmd5.com/"
+            },
+            {
+              "name": "pmd5",
+              "url": "https://pmd5.com/"
+            },
+            {
+              "name": "Convert cURL command syntax",
+              "url": "https://curl.trillworks.com/"
+            },
+            {
+              "name": "Online JavaScript Beautifier",
+              "url": "https://beautifier.io/"
+            },
+            {
+              "name": "Golang playground",
+              "url": "https://play.golang.org/"
+            },
+            {
+              "name": "在线工具",
+              "url": "http://tool.oschina.net/"
             }
           ]
         }
       ]
     },
     {
-      "name": "IT",
+      "name": "Tech",
       "list": [
         {
           "name": "Script",
@@ -632,6 +620,14 @@
               "url": "https://news.ycombinator.com/"
             },
             {
+              "name": "V2EX",
+              "url": "http://v2ex.com/"
+            },
+            {
+              "name": "掘金",
+              "url": "http://gold.xitu.io/"
+            },
+            {
               "name": "FreeBuf",
               "url": "http://www.freebuf.com/"
             },
@@ -640,20 +636,12 @@
               "url": "https://toutiao.io/latest"
             },
             {
-              "name": "掘金",
-              "url": "http://gold.xitu.io/"
-            },
-            {
               "name": "极客公园",
               "url": "http://www.geekpark.net/"
             },
             {
               "name": "InfoQ",
               "url": "http://www.infoq.com/cn/"
-            },
-            {
-              "name": "V2EX",
-              "url": "http://v2ex.com/"
             },
             {
               "name": "程序师",
@@ -1147,10 +1135,6 @@
               "url": "https://www.quora.com/topic/Quora-Weekly-Digest"
             },
             {
-              "name": "十五言",
-              "url": "http://www.15yan.com/"
-            },
-            {
               "name": "Medium",
               "url": "https://medium.com/"
             },
@@ -1305,10 +1289,6 @@
             {
               "name": "人人影视网址大全",
               "url": "http://www.allyingshi.com/"
-            },
-            {
-              "name": "虫部落",
-              "url": "http://www.chongbuluo.com/"
             },
             {
               "name": "设计师网址导航",
@@ -2400,14 +2380,6 @@
               "url": "http://jandan.net/"
             },
             {
-              "name": "煎蛋段子",
-              "url": "http://jandan.net/duan"
-            },
-            {
-              "name": "煎蛋ooxx",
-              "url": "http://jandan.net/ooxx"
-            },
-            {
               "name": "4chan",
               "url": "http://www.4chan.org"
             },
@@ -2426,10 +2398,6 @@
             {
               "name": "抽屉",
               "url": "http://dig.chouti.com/r/scoff/hot/1"
-            },
-            {
-              "name": "煎蛋段子",
-              "url": "http://jandan.net/duan/"
             },
             {
               "name": "动弹",
@@ -2695,10 +2663,6 @@
               "url": "http://www.laohuangli.net/"
             },
             {
-              "name": "Draw",
-              "url": "./page/draw.html"
-            },
-            {
               "name": "PocketList",
               "url": "https://getpocket.com/a/"
             },
@@ -2739,7 +2703,7 @@
           ]
         },
         {
-          "name": "友情链接",
+          "name": "友链",
           "list": [
             {
               "name": "羡辙杂俎",

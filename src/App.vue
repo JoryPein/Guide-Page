@@ -17,7 +17,7 @@
         <div
           class="box"
           id="navbox"
-          style="height: 0px; opacity: 0; overflow: hidden"
+          style="height:0px; opacity:0; overflow:hidden"
         >
           <div
             class="cont"
@@ -49,7 +49,7 @@
         </div>
       </div>
     </div>
-    <div id="button-box" style="position: absolute; left: 150px; top: 250px">
+    <div id="button-box" style="position:absolute; left:120px; top:250px">
       <el-button
         type="primary"
         icon="el-icon-s-grid"
@@ -60,14 +60,14 @@
     <div id="search-box">
       <div
         class="classTitle"
-        style="background-color: #007d9c; width: 860px; border-radius: 10px"
+        style="background-color:#007d9c; width:890px; border-radius:10px"
       >
         <el-link
           v-for="item in search_form"
           :key="item.name"
           :underline="false"
           @mouseenter.native="enterClass(item)"
-          style="padding: 15px; color: #fff"
+          style="padding:15px; color:#fff"
           :style="default_link_style[item.name]"
         >
           {{ item.name }}
@@ -79,18 +79,17 @@
         resize="none"
         rows="1"
         @keyup.enter.native="Search('bing')"
-        style="width: 860px; outline: none; font-size: 18px"
+        style="width:890px; outline:none; font-size:18px"
       >
       </el-input>
-      <div style="margin-top: 30px; width: 900px">
+      <div style="margin-top:30px; width:950px">
         <el-button
           v-for="item in search_form_sub.list"
           @click="Search(item.id)"
           :key="item.id"
           style="
-            width: 150px;
-            margin-bottom: 20px;
-            margin-left: 15px;
+            width: 170px;
+            margin: 0 10px 15px 0;
             color: #fff;
             border: 0;
           "
