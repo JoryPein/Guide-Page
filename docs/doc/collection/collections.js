@@ -163,6 +163,11 @@ var collections = {
                 "url": "https://www.runoob.com/jquery/jquery-tutorial.html"
             }
         ],
+        "JS About": [{
+                "name": "Scriptable Docs",
+                "url": "https://docs.scriptable.app/"
+            }
+        ],
         "Websocket": [{
                 "name": "socket.io 快速入门教程",
                 "url": "https://www.w3cschool.cn/socket/socket-ulbj2eii.html"
@@ -1143,13 +1148,15 @@ var collections = {
         },{
             "name": "微信官方文档 | 微信开放文档",
             "url": "https://developers.weixin.qq.com/doc/"
-        }],
-        "Software": [{
+        },{
             "name": "Package Control Download",
             "url": "https://github.com/wbond/package_control/releases"
         },{
             "name": "钉钉开放平台开发文档",
             "url": "https://ding-doc.dingtalk.com/doc#/bgb96b/ok9au2"
+        },{
+            "name": "Cloudflare Workers documentation",
+            "url": "https://developers.cloudflare.com/workers/"
         }],
         "Snippet": [{
             "name": "Linux Snippet",
