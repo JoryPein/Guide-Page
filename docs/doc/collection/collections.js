@@ -1143,6 +1143,9 @@ var collections = {
             "name": "Python Twitter 3.4.2 documentation",
             "url": "https://python-twitter.readthedocs.io/en/latest/"
         },{
+            "name": "Telegram Bot API",
+            "url": "https://core.telegram.org/bots/api"
+        },{
             "name": "Python Telegram Bot 11.1.0 documentation",
             "url": "https://python-telegram-bot.readthedocs.io/en/stable/"
         },{
