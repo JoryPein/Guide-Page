@@ -289,6 +289,14 @@
           ]
         },
         {
+          "name": "Cloudflare Community",
+          "id": "community-cloudflare",
+          "color": "f58220",
+          "url": [
+            "https://community.cloudflare.com/search?q="
+          ]
+        },
+        {
           "name": "Teratail",
           "id": "teratail",
           "color": "12C74B",
