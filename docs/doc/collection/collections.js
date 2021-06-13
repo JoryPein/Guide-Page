@@ -1160,6 +1160,9 @@ var collections = {
         },{
             "name": "Cloudflare Workers documentation",
             "url": "https://developers.cloudflare.com/workers/"
+        },{
+            "name": "Documentation | Hexo",
+            "url": "https://hexo.io/docs/"
         }],
         "Snippet": [{
             "name": "Linux Snippet",
