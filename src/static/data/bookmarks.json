@@ -2694,32 +2694,15 @@
           ]
         },
         {
-          "name": "Doc",
+          "name": "Link",
           "list": [
             {
               "name": "Collections",
               "url": "./doc/collection/collections.html"
-            }
-          ]
-        },
-        {
-          "name": "友链",
-          "list": [
-            {
-              "name": "羡辙杂俎",
-              "url": "http://zhangwenli.com/blog/"
             },
             {
-              "name": "Eller",
-              "url": "https://eller.tech"
-            },
-            {
-              "name": "powershell.top",
-              "url": "http://powershell.top"
-            },
-            {
-              "name": "fdlucifer",
-              "url": "https://fdlucifer.github.io/"
+              "name": "Blog",
+              "url": "https://blog-3vw.pages.dev/"
             }
           ]
         }
