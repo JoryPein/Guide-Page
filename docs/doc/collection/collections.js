@@ -223,6 +223,9 @@ var collections = {
         "Electron-vue": [{
                 "name": "Introduction &#xB7; electron-vue",
                 "url": "https://simulatedgreg.gitbooks.io/electron-vue/content/en/"
+            },{
+                "name": "Overview | Vue CLI",
+                "url": "https://cli.vuejs.org/guide/"
             }
         ],
         "Element-ui": [{
