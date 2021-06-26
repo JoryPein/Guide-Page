@@ -232,6 +232,13 @@ var collections = {
             "name": "Element - The world's most popular Vue UI framework",
             "url": "https://element.eleme.io/#/en-US/component/installation"
         }],
+        "Quasar": [{
+            "name": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+            "url": "https://quasar.dev/"
+        },{
+            "name": "入门 - 选择一种Quasar开发模式 | Quasar Framework",
+            "url": "http://www.quasarchs.com/start/pick-quasar-flavour"
+        }],
         "Layui": [{
                 "name": "layui开发使用文档 - 入门指南",
                 "url": "https://www.layui.com/doc/"
