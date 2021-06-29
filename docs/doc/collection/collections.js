@@ -136,6 +136,9 @@ var collections = {
             },{
                 "name": "使用 Python 和 Flask 设计 RESTful API",
                 "url": "http://www.pythondoc.com/flask-restful/first.html"
+            },{
+                "name": "Flask-JWT-Extended’s Documentation",
+                "url": "https://flask-jwt-extended.readthedocs.io/en/stable/index.html"
             }
         ],
         "Javascript": [{
@@ -1068,6 +1071,14 @@ var collections = {
             "name": "漏洞列表 - 知道创宇 Seebug 漏洞平台",
             "url": "https://www.seebug.org/vuldb/vulnerabilities"
         }],
+        "shellcode": [{
+                "name": "Shellcodes database for study cases",
+                "url": "http://shell-storm.org/shellcode/"
+            },{
+                "name": "Exploit Database Shellcodes",
+                "url": "https://www.exploit-db.com/shellcodes"
+            }
+        ],
         "CTF": [{
                 "name": "CTFtime.org / All about CTF (Capture The Flag)",
                 "url": "https://ctftime.org/event/list/"
