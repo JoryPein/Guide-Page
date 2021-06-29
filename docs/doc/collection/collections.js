@@ -153,6 +153,9 @@ var collections = {
             },{
                 "name": "Javascript教程&trade;",
                 "url": "https://www.yiibai.com/javascript"
+            },{
+                "name": "The Modern JavaScript Tutorial",
+                "url": "https://javascript.info/"
             }
         ],
         "JQuery": [{
@@ -166,6 +169,9 @@ var collections = {
         "JS About": [{
                 "name": "Scriptable Docs",
                 "url": "https://docs.scriptable.app/"
+            },{
+                "name": "Auto.js Pro Docs",
+                "url": "https://pro.autojs.org/docs/#/zh-cn/?id=%e7%bb%bc%e8%bf%b0"
             }
         ],
         "Websocket": [{
