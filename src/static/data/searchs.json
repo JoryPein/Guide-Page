@@ -431,6 +431,14 @@
           "url": [
             "https://pkg.go.dev/search?q="
           ]
+        },
+        {
+          "name": "Javascript Info",
+          "id": "javascript-info",
+          "color": "51a06c",
+          "url": [
+            "https://javascript.info/search/?type=article&query="
+          ]
         }
       ]
     },
@@ -1348,22 +1356,6 @@
           ]
         },
         {
-          "name": "Icon Png",
-          "id": "iconpng",
-          "color": "8CDE22",
-          "url": [
-            "http://www.iconpng.com/search/tag="
-          ]
-        },
-        {
-          "name": "Easy Icon",
-          "id": "EasyIcon",
-          "color": "76D17F",
-          "url": [
-            "http://www.easyicon.net/language.en/iconsearch/"
-          ]
-        },
-        {
           "name": "腾讯动漫",
           "id": "TecentCartoon",
           "color": "fa9144",
@@ -1393,6 +1385,30 @@
           "color": "090723",
           "url": [
             "https://www.iconfont.cn/search/index?q="
+          ]
+        },
+        {
+          "name": "Icon Png",
+          "id": "iconpng",
+          "color": "8CDE22",
+          "url": [
+            "http://www.iconpng.com/search/tag="
+          ]
+        },
+        {
+          "name": "Easy Icon",
+          "id": "EasyIcon",
+          "color": "76D17F",
+          "url": [
+            "http://www.easyicon.net/language.en/iconsearch/"
+          ]
+        },
+        {
+          "name": "Google Fonts",
+          "id": "fonts-google",
+          "color": "5f6368",
+          "url": [
+            "https://fonts.google.com/icons?selected=Material+Icons&icon.query="
           ]
         }
       ]
