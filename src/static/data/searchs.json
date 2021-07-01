@@ -1410,6 +1410,14 @@
           "url": [
             "https://fonts.google.com/icons?selected=Material+Icons&icon.query="
           ]
+        },
+        {
+          "name": "Font Awesome",
+          "id": "fontawesome",
+          "color": "339AF0",
+          "url": [
+            "https://fontawesome.com/v5.15/icons?d=gallery&p=2&q="
+          ]
         }
       ]
     },
