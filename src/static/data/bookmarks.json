@@ -178,15 +178,6 @@
           ]
         },
         {
-          "name": "ICON",
-          "list": [
-            {
-              "name": "Ionicons",
-              "url": "https://ionic.io/ionicons/v4"
-            }
-          ]
-        },
-        {
           "name": "CyberSecurity",
           "list": [
             {
@@ -455,6 +446,15 @@
             {
               "name": "在线工具",
               "url": "http://tool.oschina.net/"
+            }
+          ]
+        },
+        {
+          "name": "ICON",
+          "list": [
+            {
+              "name": "Ionicons",
+              "url": "https://ionic.io/ionicons/v4"
             }
           ]
         }
