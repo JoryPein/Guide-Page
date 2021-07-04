@@ -439,6 +439,14 @@
           "url": [
             "https://javascript.info/search/?type=article&query="
           ]
+        },
+        {
+          "name": "Bro Pages",
+          "id": "bropages",
+          "color": "111111",
+          "url": [
+            "http://bropages.org/search/"
+          ]
         }
       ]
     },
