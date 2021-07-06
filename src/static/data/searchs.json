@@ -274,6 +274,14 @@
           "url": [
             "https://greasyfork.org/en/scripts?q="
           ]
+        },
+        {
+          "name": "Oracle Help Center",
+          "id": "docs_oracle",
+          "color": "AD4333",
+          "url": [
+            "https://docs.oracle.com/search/?q="
+          ]
         }
       ]
     },
