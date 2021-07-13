@@ -440,16 +440,28 @@
               "url": "https://beautifier.io/"
             },
             {
-              "name": "Golang playground",
-              "url": "https://play.golang.org/"
-            },
-            {
               "name": "在线工具",
               "url": "http://tool.oschina.net/"
             },
             {
               "name": "豌豆存储",
               "url": "https://oss.pealog.com/"
+            },
+            {
+              "name": "Golang playground",
+              "url": "https://play.golang.org/"
+            },
+            {
+              "name": "Rust Playgroundd",
+              "url": "https://play.rust-lang.org/"
+            },
+            {
+              "name": "Python Playground | Katacoda",
+              "url": "https://www.katacoda.com/courses/python/playground"
+            },
+            {
+              "name": "Online Python",
+              "url": "https://www.online-python.com/"
             }
           ]
         },
