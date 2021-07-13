@@ -446,6 +446,10 @@
             {
               "name": "在线工具",
               "url": "http://tool.oschina.net/"
+            },
+            {
+              "name": "豌豆存储",
+              "url": "https://oss.pealog.com/"
             }
           ]
         },
