@@ -700,7 +700,7 @@ var collections = {
             }
         ],
         "Rust": [{
-                "name": "NThe Rust Programming Language",
+                "name": "The Rust Programming Language",
                 "url": "https://doc.rust-lang.org/stable/book/title-page.html"
             },{
                 "name": "std - Rust",
