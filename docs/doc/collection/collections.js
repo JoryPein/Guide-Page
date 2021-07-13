@@ -831,6 +831,12 @@ var collections = {
             },{
                 "name": "java 语言-嗨客网",
                 "url": "https://haicoder.net/java/java-development.html"
+            },{
+                "name": "Oracle Java Archive",
+                "url": "https://www.oracle.com/java/technologies/oracle-java-archive-downloads.html"
+            },{
+                "name": "Overview (Java Platform SE 6)",
+                "url": "https://www.csse.uwa.edu.au/programming/jdk-1.6/api/"
             }
         ],
         "Android": [{
