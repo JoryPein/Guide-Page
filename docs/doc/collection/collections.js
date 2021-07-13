@@ -699,6 +699,14 @@ var collections = {
                 "url": "https://haicoder.net/stl/stl-tutorial.html"
             }
         ],
+        "Rust": [{
+                "name": "NThe Rust Programming Language",
+                "url": "https://doc.rust-lang.org/stable/book/title-page.html"
+            },{
+                "name": "std - Rust",
+                "url": "https://doc.rust-lang.org/std/"
+            }
+        ],
         "Autoit": [{
                 "name": "autoit 在线手册中文版_脚本之家",
                 "url": "https://www.jb51.net/shouce/autoit/"
