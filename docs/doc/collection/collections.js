@@ -692,6 +692,9 @@ var collections = {
             },{
                 "name": "游戏蛮牛 - C++中文翻译用户手册",
                 "url": "http://docs.manew.com/cpp/"
+            },{
+                "name": "C++ 中文开发手册 - 开发者手册 - 云+社区 - 腾讯云",
+                "url": "https://cloud.tencent.com/developer/doc/1024"
             }
         ],
         "STL": [{
@@ -828,6 +831,9 @@ var collections = {
             },{
                 "name": "Go语言标准库文档 中文版",
                 "url": "https://studygolang.com/pkgdoc"
+            },{
+                "name": "The Go Programming Language  - golangprograms.com",
+                "url": "https://www.golangprograms.com/go-language.html"
             }
         ],
         "Java": [{
