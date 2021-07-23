@@ -819,6 +819,15 @@ var collections = {
             },{
                 "name": "go语言开发-嗨客网",
                 "url": "https://haicoder.net/golang/golang-tutorial.html"
+            },{
+                "name": "Go语言中文文档",
+                "url": "http://www.topgoer.com/"
+            },{
+                "name": "Go 语言高性能编程 | 极客兔兔",
+                "url": "https://geektutu.com/post/high-performance-go.html"
+            },{
+                "name": "Go语言标准库文档 中文版",
+                "url": "https://studygolang.com/pkgdoc"
             }
         ],
         "Java": [{
