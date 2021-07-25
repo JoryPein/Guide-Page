@@ -282,6 +282,14 @@
           "url": [
             "https://docs.oracle.com/search/?q="
           ]
+        },
+        {
+          "name": "Crates RustPR",
+          "id": "crates_io",
+          "color": "green",
+          "url": [
+            "https://crates.io/search?q="
+          ]
         }
       ]
     },
