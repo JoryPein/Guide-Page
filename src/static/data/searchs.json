@@ -286,7 +286,7 @@
         {
           "name": "Crates RustPR",
           "id": "crates_io",
-          "color": "green",
+          "color": "0f0",
           "url": [
             "https://crates.io/search?q="
           ]
