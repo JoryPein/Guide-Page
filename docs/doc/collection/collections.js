@@ -708,6 +708,21 @@ var collections = {
             },{
                 "name": "std - Rust",
                 "url": "https://doc.rust-lang.org/std/"
+            },{
+                "name": "Introduction - The Cargo Book",
+                "url": "https://doc.rust-lang.org/cargo/"
+            },{
+                "name": "《Cargo 教程》 | Rust 技术论坛",
+                "url": "https://learnku.com/docs/cargo-book/2018"
+            },{
+                "name": "《Rust 编程语言》 | Rust 技术论坛",
+                "url": "https://learnku.com/docs/rust-lang/2018"
+            },{
+                "name": "《Rust 高级编程》 | Rust 技术论坛",
+                "url": "https://learnku.com/docs/nomicon/2018"
+            },{
+                "name": "《Rust 异步编程》 | Rust 技术论坛",
+                "url": "hhttps://learnku.com/docs/async-book/2018"
             }
         ],
         "Autoit": [{
