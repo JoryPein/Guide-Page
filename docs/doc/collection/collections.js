@@ -738,6 +738,9 @@ var collections = {
             },{
                 "name": "通过例子学 Rust 中文版",
                 "url": "https://rustwiki.org/zh-CN/rust-by-example/index.html"
+            },{
+                "name": "Table of Contents - Rust Cookbook",
+                "url": "https://rust-lang-nursery.github.io/rust-cookbook/intro.html"
             }
         ],
         "Autoit": [{
