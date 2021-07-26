@@ -463,6 +463,14 @@
           "url": [
             "http://bropages.org/search/"
           ]
+        },
+        {
+          "name": "DOCS RUST",
+          "id": "docs_rs",
+          "color": "4D76AE",
+          "url": [
+            "https://docs.rs/releases/search?query="
+          ]
         }
       ]
     },
