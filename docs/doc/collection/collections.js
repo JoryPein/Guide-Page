@@ -741,6 +741,9 @@ var collections = {
             },{
                 "name": "Table of Contents - Rust Cookbook",
                 "url": "https://rust-lang-nursery.github.io/rust-cookbook/intro.html"
+            },{
+                "name": "Introduction - Rust Design Patterns",
+                "url": "https://rust-unofficial.github.io/patterns/intro.html"
             }
         ],
         "Autoit": [{
