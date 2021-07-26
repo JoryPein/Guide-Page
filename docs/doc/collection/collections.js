@@ -734,7 +734,10 @@ var collections = {
                 "url": "https://learnku.com/docs/nomicon/2018"
             },{
                 "name": "《Rust 异步编程》 | Rust 技术论坛",
-                "url": "hhttps://learnku.com/docs/async-book/2018"
+                "url": "https://learnku.com/docs/async-book/2018"
+            },{
+                "name": "通过例子学 Rust 中文版",
+                "url": "https://rustwiki.org/zh-CN/rust-by-example/index.html"
             }
         ],
         "Autoit": [{
