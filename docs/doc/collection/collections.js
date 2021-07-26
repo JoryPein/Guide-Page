@@ -395,6 +395,9 @@ var collections = {
             },{
                 "name": "Git教程&trade;",
                 "url": "https://www.yiibai.com/git"
+            },{
+                "name": "Git - Swack",
+                "url": "https://www.swack.cn/wiki/0015584169400261c43b924ee334788aa13a5674638e280000/001558422422120b84da5019121411d8363fc50b16607de000"
             }
         ],
         "SVN": [{
@@ -529,7 +532,7 @@ var collections = {
                 "url": "http://zetcode.com/gui/pyqt5/"
             }
         ],
-        "编译": [{
+        "Make": [{
                 "name": "CMake Tutorial",
                 "url": "https://cmake.org/cmake/help/latest/guide/tutorial/index.html"
             },{
@@ -538,6 +541,9 @@ var collections = {
             },{
                 "name": "Unix Makefile Tutorial - Tutorialspoint",
                 "url": "https://www.tutorialspoint.com/makefile/index.htm"
+            },{
+                "name": "gcc makefile 的基本使用 - Swack",
+                "url": "https://www.swack.cn/wiki/001558681974020669b912b0c994e7090649ac4846e80b2000/00159236296886607141576eb0745c1b0694a55952f5c62000"
             }
         ],
         "DEBUG": [{
@@ -578,6 +584,9 @@ var collections = {
             },{
                 "name": "geek edition | X86 Opcode and Instruction Reference 1.12",
                 "url": "http://ref.x86asm.net/geek.html#x68"
+            },{
+                "name": "ASM - Swack",
+                "url": "https://www.swack.cn/wiki/001558681974020669b912b0c994e7090649ac4846e80b2000/001617289943583e72287bd5b19453586d031c22980da5f000"
             }
         ],
         "Asm-Nasm": [{
@@ -636,6 +645,9 @@ var collections = {
             },{
                 "name": "C语言入门教程-嗨客网",
                 "url": "https://haicoder.net/c/c-tutorial.html"
+            },{
+                "name": "C语言 总结 - Swack",
+                "url": "https://www.swack.cn/wiki/001558681974020669b912b0c994e7090649ac4846e80b2000/001575435190443c3954ede8b0443578c9a998fffccb1b6000"
             }
         ],
         "C++": [{
