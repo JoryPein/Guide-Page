@@ -744,6 +744,9 @@ var collections = {
             },{
                 "name": "Introduction - Rust Design Patterns",
                 "url": "https://rust-unofficial.github.io/patterns/intro.html"
+            },{
+                "name": "Rust 基础教程 - 简单教程",
+                "url": "https://www.twle.cn/c/yufei/rust/rust-basic-index.html"
             }
         ],
         "Autoit": [{
