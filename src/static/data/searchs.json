@@ -471,6 +471,14 @@
           "url": [
             "https://docs.rs/releases/search?query="
           ]
+        },
+        {
+          "name": "CentOS WIKI",
+          "id": "wiki_centos",
+          "color": "2F2F2F",
+          "url": [
+            "https://wiki.centos.org/Search?action=fullsearch&titlesearch=0&value="
+          ]
         }
       ]
     },
