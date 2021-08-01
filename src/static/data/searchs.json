@@ -164,6 +164,14 @@
           "url": [
             "https://www.webcrawler.com/serp?q="
           ]
+        },
+        {
+          "name": "Top10 Answers",
+          "id": "top10answers",
+          "color": "d7695f",
+          "url": [
+            "https://www.top10answers.com/web?q="
+          ]
         }
       ]
     },
