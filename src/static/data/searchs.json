@@ -1466,6 +1466,14 @@
           "url": [
             "https://fontawesome.com/v5.15/icons?d=gallery&p=2&q="
           ]
+        },
+        {
+          "name": "Wallpaper Cave",
+          "id": "wallpapercave",
+          "color": "3a4053",
+          "url": [
+            "https://wallpapercave.com/search?q="
+          ]
         }
       ]
     },
