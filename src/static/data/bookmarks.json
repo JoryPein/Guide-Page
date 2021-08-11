@@ -277,8 +277,16 @@
               "url": "https://www.secpulse.com/"
             },
             {
-              "name": "bugkuTools",
+              "name": "bugku Tools",
               "url": "http://tool.bugku.com/"
+            },
+            {
+              "name": "Virus Total",
+              "url": "https://www.virustotal.com/"
+            },
+            {
+              "name": "微步在线云沙箱",
+              "url": "https://s.threatbook.cn/"
             }
           ]
         },
