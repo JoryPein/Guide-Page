@@ -1067,7 +1067,7 @@ var collections = {
                 "url": "https://www.python.org/downloads/"
             }
         ],
-        "Spider": [{
+        "PythonWeb": [{
                 "name": "Requests: HTTP for Humans™ &#8212; Requests 2.22.0 documentation",
                 "url": "https://2.python-requests.org/en/master/"
             },{
@@ -1076,6 +1076,9 @@ var collections = {
             },{
                 "name": "为什么要学习爬虫 · 网络爬虫教程",
                 "url": "https://piaosanlang.gitbooks.io/spiders/content/01day/section1.1.html"
+            },{
+                "name": "API Reference &#8212; Pyppeteer 0.0.25 documentation",
+                "url": "https://pyppeteer.github.io/pyppeteer/reference.html"
             }
             
         ],
