@@ -1,5 +1,5 @@
 <template>
-  <body :style="{ backgroundImage: background_image_url }">
+  <body :style="{ backgroundImage: background_image_url, backgroundRepeat: 'no-repeat', backgroundSize: 'cover'}">
     <div class="nav_menu">
       <div class="nav">
         <div class="list" id="navlist">
@@ -255,7 +255,7 @@ export default {
       btn_style: this.btn_style,
       default_link_style: this.default_link_style,
       background_image_url:
-        "url(" + require("@/static/image/bg.png").default + ")",
+        "url(" + require("@/static/image/bg.jpg").default + ")",
       dialogFormVisible: false,
       textarea: "",
     };
