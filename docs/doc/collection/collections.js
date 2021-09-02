@@ -273,6 +273,9 @@ var collections = {
             },{
                 "name": "docker入门实战-docker教程-嗨客网",
                 "url": "https://haicoder.net/docker/docker-course.html"
+            },{
+                "name": "Docker —— 从入门到实践",
+                "url": "https://yeasy.gitbook.io/docker_practice/"
             }
         ],
     },
