@@ -1262,6 +1262,9 @@ var collections = {
             "name": "Cloudflare Workers documentation",
             "url": "https://developers.cloudflare.com/workers/"
         },{
+            "name": "certbot-dns-cloudflare’s documentation",
+            "url": "https://certbot-dns-cloudflare.readthedocs.io/en/stable/"
+        },{
             "name": "Documentation | Hexo",
             "url": "https://hexo.io/docs/"
         }],
