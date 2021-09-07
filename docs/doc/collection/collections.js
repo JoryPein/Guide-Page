@@ -333,6 +333,13 @@ var collections = {
                 "name": "Burp Suite documentation",
                 "url": "https://portswigger.net/burp/documentation"
             }],
+        "Proxy": [{
+                "name": "V2Ray 配置指南",
+                "url": "https://toutyrater.github.io/"
+            },{
+                "name": "Trojan Documentation | trojan",
+                "url": "https://trojan-gfw.github.io/trojan/"
+            }],
         "Metasploit": [{
                 "name": "Metasploit Framework",
                 "url": "https://metasploit.help.rapid7.com/docs"
