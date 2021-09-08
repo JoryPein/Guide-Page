@@ -759,6 +759,11 @@ var collections = {
                 "url": "https://www.twle.cn/c/yufei/rust/rust-basic-index.html"
             }
         ],
+        "Nim": [{
+                "name": "Documentation - Nim Programming Language",
+                "url": "https://nim-lang.org/documentation.html"
+            }
+        ],
         "Autoit": [{
                 "name": "autoit 在线手册中文版_脚本之家",
                 "url": "https://www.jb51.net/shouce/autoit/"
