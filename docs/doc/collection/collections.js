@@ -731,8 +731,11 @@ var collections = {
                 "name": "std - Rust",
                 "url": "https://doc.rust-lang.org/std/"
             },{
-                "name": "Introduction - The Cargo Book",
+                "name": "The Cargo Book",
                 "url": "https://doc.rust-lang.org/cargo/"
+            },{
+                "name": "The rustc book",
+                "url": "https://doc.rust-lang.org/rustc/what-is-rustc.html"
             },{
                 "name": "《Cargo 教程》 | Rust 技术论坛",
                 "url": "https://learnku.com/docs/cargo-book/2018"
