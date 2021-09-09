@@ -463,6 +463,9 @@ var collections = {
             },{
                 "name": "PostgREST Documentation &mdash; PostgREST 7.0.1 documentation",
                 "url": "http://postgrest.org/en/v7.0.0/index.html"
+            },{
+                "name": "Psycopg – PostgreSQL database adapter for Python",
+                "url": "https://www.psycopg.org/docs/index.html"
             }
         ],
         "Redis": [{
