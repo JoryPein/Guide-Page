@@ -298,6 +298,14 @@
           "url": [
             "https://crates.io/search?q="
           ]
+        },
+        {
+          "name": "Lib.rs",
+          "id": "lib-rs",
+          "color": "8844ff",
+          "url": [
+            "https://lib.rs/search?q="
+          ]
         }
       ]
     },
