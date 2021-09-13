@@ -137,6 +137,9 @@ var collections = {
                 "name": "使用 Python 和 Flask 设计 RESTful API",
                 "url": "http://www.pythondoc.com/flask-restful/first.html"
             },{
+                "name": "Flask-RESTful 0.3.8 documentation",
+                "url": "https://flask-restful.readthedocs.io/en/latest/quickstart.html#"
+            },{
                 "name": "Flask-JWT-Extended’s Documentation",
                 "url": "https://flask-jwt-extended.readthedocs.io/en/stable/index.html"
             }
