@@ -170,6 +170,9 @@ var collections = {
             },{
                 "name": "jQuery教程 - 菜鸟教程",
                 "url": "https://www.runoob.com/jquery/jquery-tutorial.html"
+            },{
+                "name": "jQuery 在线文档 | jQuery 1.12.1",
+                "url": "http://hemin.cn/jq/"
             }
         ],
         "JS About": [{
