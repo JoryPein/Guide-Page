@@ -742,6 +742,14 @@
           ]
         },
         {
+          "name": "Telegago",
+          "id": "telegago",
+          "color": "4d90fe",
+          "url": [
+            "https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q="
+          ]
+        },
+        {
           "name": "微博",
           "id": "SinaWeibo",
           "color": "ff9b37",
