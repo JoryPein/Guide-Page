@@ -1272,7 +1272,18 @@ var collections = {
             "url": "https://python-telegram-bot.readthedocs.io/en/stable/"
         },{
             "name": "Telethon’s Documentation &mdash; Telethon 1.23.0 documentation",
-            "url": "https://docs.telethon.dev/en/latest/index.html/"
+            "url": "https://docs.telethon.dev/en/latest/index.html"
+        }],
+        "Cloudflare": [{
+            "name": "Cloudflare Workers documentation",
+            "url": "https://developers.cloudflare.com/workers/"
+        },{
+            "name": "certbot-dns-cloudflare’s documentation",
+            "url": "https://certbot-dns-cloudflare.readthedocs.io/en/stable/"
+        }],
+        "Feed": [{
+            "name": "关于 | RSSHub",
+            "url": "https://docs.rsshub.app/"
         }],
         "Sites": [{
             "name": "Python Twitter 3.4.2 documentation",
@@ -1287,12 +1298,6 @@ var collections = {
             "name": "钉钉开放平台开发文档",
             "url": "https://ding-doc.dingtalk.com/doc#/bgb96b/ok9au2"
         },{
-            "name": "Cloudflare Workers documentation",
-            "url": "https://developers.cloudflare.com/workers/"
-        },{
-            "name": "certbot-dns-cloudflare’s documentation",
-            "url": "https://certbot-dns-cloudflare.readthedocs.io/en/stable/"
-        },{
             "name": "Documentation | Hexo",
             "url": "https://hexo.io/docs/"
         }],
@@ -1302,10 +1307,6 @@ var collections = {
         },{
             "name": "Windows Snippet",
             "url": "../snippet/windows_snippet.md"
-        }],
-        "Github": [{
-            "name": "关于 | RSSHub",
-            "url": "https://docs.rsshub.app/"
         }]
     }
 }
