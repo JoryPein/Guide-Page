@@ -1264,15 +1264,19 @@ var collections = {
             "name": "Markdown 语法说明_w3cschool",
             "url": "https://www.w3cschool.cn/markdownyfsm/"
         }],
-        "Sites": [{
-            "name": "Python Twitter 3.4.2 documentation",
-            "url": "https://python-twitter.readthedocs.io/en/latest/"
-        },{
+        "Telegram": [{
             "name": "Telegram Bot API",
             "url": "https://core.telegram.org/bots/api"
         },{
             "name": "Python Telegram Bot 11.1.0 documentation",
             "url": "https://python-telegram-bot.readthedocs.io/en/stable/"
+        },{
+            "name": "Telethon’s Documentation &mdash; Telethon 1.23.0 documentation",
+            "url": "https://docs.telethon.dev/en/latest/index.html/"
+        }],
+        "Sites": [{
+            "name": "Python Twitter 3.4.2 documentation",
+            "url": "https://python-twitter.readthedocs.io/en/latest/"
         },{
             "name": "微信官方文档 | 微信开放文档",
             "url": "https://developers.weixin.qq.com/doc/"
