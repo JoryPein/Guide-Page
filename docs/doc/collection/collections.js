@@ -1271,6 +1271,9 @@ var collections = {
             "name": "Python Telegram Bot 11.1.0 documentation",
             "url": "https://python-telegram-bot.readthedocs.io/en/stable/"
         },{
+            "name": "Telethon API",
+            "url": "https://tl.telethon.dev/index.html"
+        },{
             "name": "Telethon’s Documentation &mdash; Telethon 1.23.0 documentation",
             "url": "https://docs.telethon.dev/en/latest/index.html"
         }],
