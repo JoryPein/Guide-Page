@@ -228,6 +228,14 @@
           ]
         },
         {
+          "name": "Code Grepper",
+          "id": "codegrepper",
+          "color": "73C149",
+          "url": [
+            "https://www.codegrepper.com/search.php?q="
+          ]
+        },
+        {
           "name": "Pudn",
           "id": "pudn",
           "color": "1ab394",
