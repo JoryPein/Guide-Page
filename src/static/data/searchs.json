@@ -672,14 +672,6 @@
           ]
         },
         {
-          "name": "搜漫",
-          "id": "soman",
-          "color": "FE254F",
-          "url": [
-            "https://www.soman.com/search.html?keyword="
-          ]
-        },
-        {
           "name": "Edge Addons",
           "id": "microsoftedge",
           "color": "05A6F0",
@@ -1034,6 +1026,14 @@
           "url": [
             "https://ebookpdf.com/"
           ]
+        },
+        {
+          "name": "豆丁",
+          "id": "docin",
+          "color": "95BE26",
+          "url": [
+            "https://www.docin.com/search.do?nkey="
+          ]
         }
       ]
     },
@@ -1046,6 +1046,22 @@
           "color": "000",
           "url": [
             "https://translate.google.cn/#view=home&op=translate&sl=auto&tl=zh-CN&text="
+          ]
+        },
+        {
+          "name": "Free Dict",
+          "id": "FreeDict",
+          "color": "2eb398",
+          "url": [
+            "http://www.thefreedictionary.com/"
+          ]
+        },
+        {
+          "name": "Bing",
+          "id": "bingdict",
+          "color": "0078d7",
+          "url": [
+            "https://cn.bing.com/dict/search?q="
           ]
         },
         {
@@ -1073,14 +1089,6 @@
           ]
         },
         {
-          "name": "Free Dict",
-          "id": "FreeDict",
-          "color": "2eb398",
-          "url": [
-            "http://www.thefreedictionary.com/"
-          ]
-        },
-        {
           "name": "Webster",
           "id": "merriam-webster",
           "color": "2D5F7C",
@@ -1094,14 +1102,6 @@
           "color": "1d2439",
           "url": [
             "http://www.urbandictionary.com/define.php?term="
-          ]
-        },
-        {
-          "name": "Bing",
-          "id": "bingdict",
-          "color": "0078d7",
-          "url": [
-            "https://cn.bing.com/dict/search?q="
           ]
         },
         {
@@ -1433,6 +1433,14 @@
           "color": "fa9144",
           "url": [
             "http://ac.qq.com/Comic/searchList/search/"
+          ]
+        },
+        {
+          "name": "搜漫",
+          "id": "soman",
+          "color": "FE254F",
+          "url": [
+            "https://www.soman.com/search.html?keyword="
           ]
         },
         {
