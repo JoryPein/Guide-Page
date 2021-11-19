@@ -2254,6 +2254,10 @@
             {
               "name": "TheFreeDict",
               "url": "http://www.thefreedictionary.com/"
+            },
+            {
+              "name": "万词王",
+              "url": "https://wantwords.thunlp.org/"
             }
           ]
         },
