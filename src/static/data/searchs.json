@@ -1034,6 +1034,14 @@
           "url": [
             "https://www.docin.com/search.do?nkey="
           ]
+        },
+        {
+          "name": "360doc",
+          "id": "360doc",
+          "color": "77AF0C",
+          "url": [
+            "http://www.360doc.com/search.html?type=0&word="
+          ]
         }
       ]
     },
