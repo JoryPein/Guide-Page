@@ -322,6 +322,14 @@
           "url": [
             "https://www.programming-idioms.org/search/"
           ]
+        },
+        {
+          "name": "Cheatography",
+          "id": "cheatography",
+          "color": "444",
+          "url": [
+            "https://cheatography.com/explore/search/?q="
+          ]
         }
       ]
     },
