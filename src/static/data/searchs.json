@@ -314,6 +314,14 @@
           "url": [
             "https://lib.rs/search?q="
           ]
+        },
+        {
+          "name": "Programming Idioms",
+          "id": "programming-idioms",
+          "color": "444488",
+          "url": [
+            "https://www.programming-idioms.org/search/"
+          ]
         }
       ]
     },
