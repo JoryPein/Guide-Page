@@ -51,7 +51,7 @@
     </div>
     <div id="button-box" style="position:absolute; left:120px; top:250px">
       <el-button
-        type="primary"
+        style="background-color: #007d9c; color: #fff; border:0;"
         icon="el-icon-s-grid"
         @click="dialogFormVisible = true"
         circle
@@ -60,7 +60,7 @@
     <div id="search-box">
       <div
         class="classTitle"
-        style="background-color:#007d9c; width:890px; border-radius:10px"
+        style="background-color:#2F3D51; width:890px; border-radius:10px"
       >
         <el-link
           v-for="item in search_form"
@@ -104,16 +104,22 @@
         style="margin-top: -20px"
         type="textarea"
         :rows="8"
-        placeholder="Please input"
+        placeholder="input text"
         v-model="textarea"
       >
       </el-input>
       <div style="margin-top: 10px">
-        <el-button type="primary" @click="base64encode()"
+        <el-button style="background-color: #007d9c; color: #fff; border:0;" @click="base64encode()"
           >Base64 Encode</el-button
         >
-        <el-button type="primary" @click="base64decode()"
+        <el-button style="background-color: #007d9c; color: #fff; border:0;" @click="base64decode()"
           >Base64 Decode</el-button
+        >
+        <el-button style="background-color: #007d9c; color: #fff; border:0;" @click="md5hash()"
+          >md5</el-button
+        >
+        <el-button style="background-color: #007d9c; color: #fff; border:0;" @click="count()"
+          >count</el-button
         >
       </div>
     </el-dialog>
@@ -123,6 +129,7 @@
 <script>
 import search_form_data from "@/static/data/searchs.json";
 import bookmark_data from "@/static/data/bookmarks.json";
+import md5 from "js-md5";
 
 var search_form = search_form_data.list;
 var bookmarks = bookmark_data.list;
@@ -239,6 +246,15 @@ export default {
     },
     base64decode: function () {
       this.textarea = decodeUnicode(this.textarea);
+    },
+    md5hash: function () {
+      this.textarea = md5(this.textarea);
+    },
+    count: function () {
+      if (typeof(this.textarea) === "string") {
+        this.textarea = this.textarea.length;
+      }
+      
     },
   },
   data() {

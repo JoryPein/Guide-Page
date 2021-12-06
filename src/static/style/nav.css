@@ -39,8 +39,8 @@
     position:fixed;
     z-index:4;
     margin:0;
-    background-color: #007D9C;
-    border: solid 1px #007D9C;
+    background-color: #2F3D51;
+    border: solid 1px #2F3D51;
 }
 
 .nav .list a {
@@ -76,7 +76,7 @@
 .nav .cont {
     position:relative;
     padding:25px 0 0 24px;
-    background-color: #007D9C;
+    background-color: #2F3D51;
 }
 
 .sublist li {
