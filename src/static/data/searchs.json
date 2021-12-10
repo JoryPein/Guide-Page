@@ -846,6 +846,14 @@
           ]
         },
         {
+          "name": "天涯",
+          "id": "tianya",
+          "color": "0084c4",
+          "url": [
+            "http://search.tianya.cn/bbs?q="
+          ]
+        },
+        {
           "name": "So V2ex",
           "id": "sov2ex",
           "color": "03A9F4",
@@ -920,14 +928,6 @@
           "color": "222222",
           "url": [
             "http://gameofthrones.wikia.com/wiki/Special:Search?search="
-          ]
-        },
-        {
-          "name": "煮酒论史",
-          "id": "tianya",
-          "color": "0084c4",
-          "url": [
-            "http://search.tianya.cn/bbs?q="
           ]
         },
         {
