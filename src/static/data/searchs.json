@@ -172,6 +172,14 @@
           "url": [
             "https://www.top10answers.com/web?q="
           ]
+        },
+        {
+          "name": "Wayback Machine",
+          "id": "web-archive",
+          "color": "be1318",
+          "url": [
+            "https://web.archive.org/web/*/"
+          ]
         }
       ]
     },
