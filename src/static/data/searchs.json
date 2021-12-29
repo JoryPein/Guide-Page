@@ -1010,6 +1010,15 @@
           ]
         },
         {
+          "name": "Z-Library",
+          "id": "b-ok",
+          "color": "4aafd0",
+          "url": [
+            "https://b-ok.cc/s/",
+            "?"
+          ]
+        },
+        {
           "name": "PDF",
           "id": "pdfSearchEngine",
           "color": "FA7575",
