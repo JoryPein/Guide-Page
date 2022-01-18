@@ -19,6 +19,10 @@
               "url": "https://gist.github.com/discover"
             },
             {
+              "name": "Gitlab",
+              "url": "https://gitlab.com/"
+            },
+            {
               "name": "StackOverflow",
               "url": "http://stackoverflow.com/"
             },
@@ -89,6 +93,10 @@
             {
               "name": "80x86汇编小站",
               "url": "http://www.x86asm.com/#"
+            },
+            {
+              "name": "开发者客栈",
+              "url": "https://www.developers.pub/article"
             }
           ]
         },
