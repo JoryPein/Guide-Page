@@ -3,7 +3,11 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { VueLoaderPlugin } = require('vue-loader');
 
 const config = {
-  entry: ['@babel/polyfill', './src/main.js'],
+  // entry: ['@babel/polyfill', './src/main.js'],
+  entry: {
+    "main": "./src/index/main.js",
+    "doc": "./src/doc/main.js"
+  },
   output: {
     path: path.resolve(__dirname + '/dist'),
     filename: '[name].build.js',
@@ -13,7 +17,14 @@ const config = {
       filename: 'index.html',
       template: 'public/index.html',
       favicon: 'public/favicon.ico',
+      chunks: ['main'],
     }),
+    new HtmlWebpackPlugin({
+     filename: 'doc.html',
+     template: 'public/index.html',
+     favicon: 'public/favicon.ico',
+     chunks: ['doc'],
+   }),
     new VueLoaderPlugin(),
   ],
   devServer: {

@@ -127,8 +127,8 @@
 </template>
 
 <script>
-import search_form_data from "@/static/data/searchs.json";
-import bookmark_data from "@/static/data/bookmarks.json";
+import search_form_data from "@/index/static/data/searchs.json";
+import bookmark_data from "@/index/static/data/bookmarks.json";
 import md5 from "js-md5";
 
 var search_form = search_form_data.list;
@@ -271,7 +271,7 @@ export default {
       btn_style: this.btn_style,
       default_link_style: this.default_link_style,
       background_image_url:
-        "url(" + require("@/static/image/bg.jpg").default + ")",
+        "url(" + require("@/index/static/image/bg.jpg").default + ")",
       dialogFormVisible: false,
       textarea: "",
     };
@@ -280,7 +280,7 @@ export default {
 </script>
 
 <style>
-@import "@/static/style/nav.css";
+@import "@/index/static/style/nav.css";
 
 div#search-box {
   position: relative;

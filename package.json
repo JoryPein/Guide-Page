@@ -29,7 +29,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
-    "build": "webpack --mode=development",
+    "build": "webpack --mode=production",
     "serve": "webpack serve"
   },
   "author": "",
