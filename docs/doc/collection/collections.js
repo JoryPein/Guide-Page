@@ -1303,13 +1303,6 @@ var collections = {
         },{
             "name": "Documentation | Hexo",
             "url": "https://hexo.io/docs/"
-        }],
-        "Snippet": [{
-            "name": "Linux Snippet",
-            "url": "../snippet/linux_snippet.md"
-        },{
-            "name": "Windows Snippet",
-            "url": "../snippet/windows_snippet.md"
         }]
     }
 }
