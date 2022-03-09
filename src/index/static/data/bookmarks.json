@@ -750,6 +750,10 @@
           "name": "International",
           "list": [
             {
+              "name": "FairObserver",
+              "url": "https://www.fairobserver.com/"
+            },
+            {
               "name": "YahooNews",
               "url": "http://news.yahoo.com/"
             },
