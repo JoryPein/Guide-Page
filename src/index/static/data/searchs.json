@@ -1130,6 +1130,14 @@
           ]
         },
         {
+          "name": "EtymoloGeek",
+          "id": "etymologeek",
+          "color": "f6b68e",
+          "url": [
+            "https://etymologeek.com/eng/"
+          ]
+        },
+        {
           "name": "Dictionary",
           "id": "Dictc",
           "color": "3c7bbe",
