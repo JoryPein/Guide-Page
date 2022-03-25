@@ -1138,6 +1138,14 @@
           ]
         },
         {
+          "name": "Google Etymology",
+          "id": "google_etymology",
+          "color": "1A73E8",
+          "url": [
+            "https://www.google.com/search?q=etymology+"
+          ]
+        },
+        {
           "name": "Dictionary",
           "id": "Dictc",
           "color": "3c7bbe",
