@@ -1130,6 +1130,14 @@
           ]
         },
         {
+          "name": "Etymology CN",
+          "id": "etymonline-cn",
+          "color": "700020",
+          "url": [
+            "https://www.etymonline.com/cn/word/"
+          ]
+        },
+        {
           "name": "EtymoloGeek",
           "id": "etymologeek",
           "color": "f6b68e",
