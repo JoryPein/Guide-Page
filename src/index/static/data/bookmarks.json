@@ -2281,7 +2281,7 @@
             },
             {
               "name": "万词王",
-              "url": "https://wantwords.thunlp.org/"
+              "url": "https://wantwords.net/"
             }
           ]
         },
@@ -2417,6 +2417,10 @@
             {
               "name": "日语学习网",
               "url": "http://jp.tingroom.com/"
+            },
+            {
+              "name": "VOA",
+              "url": "https://www.voanews.com/"
             }
           ]
         }
