@@ -1275,6 +1275,14 @@
           ]
         },
         {
+          "name": "粵典",
+          "id": "wordshd",
+          "color": "0D6EFD",
+          "url": [
+            "https://words.hk/zidin/wan/?pos=&q="
+          ]
+        },
+        {
           "name": "沪江日语",
           "id": "HJJP",
           "color": "8bc71a",
