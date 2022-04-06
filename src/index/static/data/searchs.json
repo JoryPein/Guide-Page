@@ -1138,6 +1138,14 @@
           ]
         },
         {
+          "name": "趣词",
+          "id": "quword",
+          "color": "3997E9",
+          "url": [
+            "https://www.quword.com/w/"
+          ]
+        },
+        {
           "name": "EtymoloGeek",
           "id": "etymologeek",
           "color": "f6b68e",
