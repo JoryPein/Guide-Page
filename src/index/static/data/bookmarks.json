@@ -1958,6 +1958,10 @@
             {
               "name": "豆瓣电影",
               "url": "https://movie.douban.com/"
+            },
+            {
+              "name": "網路電視台直播",
+              "url": "https://www.stockq.org/tv/"
             }
           ]
         },
@@ -2734,6 +2738,10 @@
             {
               "name": "GoogleActivity",
               "url": "https://myactivity.google.com/myactivity"
+            },
+            {
+              "name": "程序员做饭指南",
+              "url": "https://cook.aiurs.co/"
             }
           ]
         },
