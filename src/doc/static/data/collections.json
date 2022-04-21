@@ -247,6 +247,10 @@
             "name": "Element - The world's most popular Vue UI framework",
             "url": "https://element.eleme.io/#/en-US/component/installation"
         }],
+        "Vuetify": [{
+            "name": "Get started with Vuetify — Vuetify",
+            "url": "https://vuetifyjs.com/en/getting-started/installation/"
+        }],
         "Quasar": [{
             "name": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
             "url": "https://quasar.dev/"
