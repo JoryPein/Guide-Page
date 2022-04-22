@@ -462,6 +462,28 @@
             {
               "name": "豌豆存储",
               "url": "https://oss.pealog.com/"
+            }
+          ]
+        },
+        {
+          "name": "ICON",
+          "list": [
+            {
+              "name": "Ionicons",
+              "url": "https://ionic.io/ionicons/v4"
+            }
+          ]
+        },
+        {
+          "name": "Playground",
+          "list": [
+            {
+              "name": "在线编程",
+              "url": "https://www.bccn.net/run/"
+            },
+            {
+              "name": "菜鸟在线工具",
+              "url": "https://c.runoob.com/compile/9/"
             },
             {
               "name": "Golang playground",
@@ -478,15 +500,6 @@
             {
               "name": "Online Python",
               "url": "https://www.online-python.com/"
-            }
-          ]
-        },
-        {
-          "name": "ICON",
-          "list": [
-            {
-              "name": "Ionicons",
-              "url": "https://ionic.io/ionicons/v4"
             }
           ]
         }
