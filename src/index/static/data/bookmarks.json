@@ -486,6 +486,14 @@
               "url": "https://c.runoob.com/compile/9/"
             },
             {
+              "name": "代码在线运行",
+              "url": "https://tool.lu/coderunner/"
+            },
+            {
+              "name": "在线编辑器",
+              "url": "http://www.dooccn.com/python3/"
+            },
+            {
               "name": "Golang playground",
               "url": "https://play.golang.org/"
             },
