@@ -338,6 +338,14 @@
           "url": [
             "https://cheatography.com/explore/search/?q="
           ]
+        },
+        {
+          "name": "Dig Codes",
+          "id": "dig-codes",
+          "color": "7251FD",
+          "url": [
+            "https://dig.codes/s?q="
+          ]
         }
       ]
     },
