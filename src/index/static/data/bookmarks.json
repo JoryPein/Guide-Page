@@ -178,10 +178,6 @@
             {
               "name": "石墨文档",
               "url": "https://shimo.im/"
-            },
-            {
-              "name": "Ionicons",
-              "url": "https://ionic.io/ionicons/v4"
             }
           ]
         },
@@ -462,6 +458,10 @@
             {
               "name": "豌豆存储",
               "url": "https://oss.pealog.com/"
+            },
+            {
+              "name": "pyregex",
+              "url": "http://www.pyregex.com/"
             }
           ]
         },
