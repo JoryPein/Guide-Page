@@ -1091,6 +1091,14 @@
           "url": [
             "http://www.360doc.com/search.html?type=0&word="
           ]
+        },
+        {
+          "name": "强力书籍",
+          "id": "cha.hhctd",
+          "color": "4E6EF2",
+          "url": [
+            "https://cha.hhctd.com/?keywords="
+          ]
         }
       ]
     },
