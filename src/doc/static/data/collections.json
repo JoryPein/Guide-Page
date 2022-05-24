@@ -233,6 +233,9 @@
             },{
                 "name": "Vuex 是什么？",
                 "url": "https://vuex.vuejs.org/zh/"
+            },{
+                "name": "Vue Router",
+                "url": "https://v3.router.vuejs.org/"
             }
         ],
         "Electron-vue": [{
