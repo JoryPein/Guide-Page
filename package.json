@@ -9,6 +9,7 @@
     "element-ui": "^2.15.2",
     "js-md5": "^0.7.3",
     "vue": "^2.6.12",
+    "vue-qr": "^4.0.9",
     "vue-router": "^3.5.1"
   },
   "devDependencies": {
@@ -30,7 +31,7 @@
   },
   "scripts": {
     "build": "webpack --mode=production",
-    "serve": "webpack serve"
+    "serve": "webpack serve --mode=development"
   },
   "author": "",
   "license": "ISC"

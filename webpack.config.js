@@ -29,10 +29,10 @@ const config = {
   ],
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
-    compress: true,
+    compress: false,
     port: 3000,
     hot: true,
-    open: false,
+    open: true,
   },
   module: {
     rules: [
