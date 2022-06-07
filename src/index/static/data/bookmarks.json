@@ -462,6 +462,10 @@
             {
               "name": "pyregex",
               "url": "http://www.pyregex.com/"
+            },
+            {
+              "name": "regex101",
+              "url": "https://regex101.com/"
             }
           ]
         },
