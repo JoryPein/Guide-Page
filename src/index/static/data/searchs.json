@@ -635,7 +635,7 @@
           "id": "fofa",
           "color": "439AFF",
           "url": [
-            "https://fofa.so/result?q="
+            "https://fofa.info/result?q="
           ]
         },
         {
@@ -644,6 +644,14 @@
           "color": "4758E4",
           "url": [
             "https://www.virustotal.com/gui/search/"
+          ]
+        },
+        {
+          "name": "urlscan.io",
+          "id": "urlscan",
+          "color": "18BC9C",
+          "url": [
+            "https://urlscan.io/search/#"
           ]
         },
         {
