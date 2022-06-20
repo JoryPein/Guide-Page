@@ -1353,6 +1353,14 @@
           "url": [
             "https://www.weblio.jp/content/"
           ]
+        },
+        {
+          "name": "DeepL",
+          "id": "deepl",
+          "color": "006494",
+          "url": [
+            "https://www.deepl.com/translator?#en/zh/"
+          ]
         }
       ]
     },
