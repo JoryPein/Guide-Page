@@ -1361,6 +1361,14 @@
           "url": [
             "https://www.deepl.com/translator?#en/zh/"
           ]
+        },
+        {
+          "name": "Linguee",
+          "id": "linguee",
+          "color": "3F556B",
+          "url": [
+            "https://www.linguee.com/english-chinese/search?source=auto&query="
+          ]
         }
       ]
     },
