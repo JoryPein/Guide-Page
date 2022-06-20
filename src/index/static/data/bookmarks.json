@@ -783,6 +783,10 @@
               "url": "http://www.theguardian.com/us"
             },
             {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/"
+            },
+            {
               "name": "FoxNews",
               "url": "http://www.foxnews.com/"
             },
