@@ -980,6 +980,10 @@
             {
               "name": "电子工程世界",
               "url": "http://www.eeworld.com.cn/"
+            },
+            {
+              "name": "Science Alert",
+              "url": "https://www.sciencealert.com"
             }
           ]
         },
