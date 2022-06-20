@@ -829,6 +829,10 @@
             {
               "name": "The Sunday Times",
               "url": "https://www.thetimes.co.uk"
+            },
+            {
+              "name": "Straits Times",
+              "url": "https://www.straitstimes.com"
             }
           ]
         },
