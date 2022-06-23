@@ -939,6 +939,22 @@
           ]
         },
         {
+          "name": "Uncyclopedia",
+          "id": "en.uncyclopedia",
+          "color": "5E6266",
+          "url": [
+            "https://en.uncyclopedia.co/wiki/"
+          ]
+        },
+        {
+          "name": "偽基百科",
+          "id": "zh.uncyclopedia",
+          "color": "5E6266",
+          "url": [
+            "https://zh.uncyclopedia.info/wiki/"
+          ]
+        },
+        {
           "name": "Wikileaks",
           "id": "wikileaks",
           "color": "4D5F69",
