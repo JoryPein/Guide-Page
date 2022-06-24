@@ -955,6 +955,14 @@
           ]
         },
         {
+          "name": "Wikihow",
+          "id": "wikihow",
+          "color": "93B874",
+          "url": [
+            "https://www.wikihow.com/wikiHowTo?search="
+          ]
+        },
+        {
           "name": "Wikileaks",
           "id": "wikileaks",
           "color": "4D5F69",
