@@ -1697,6 +1697,10 @@
             {
               "name": "Free PDF Search Engine",
               "url": "http://pdf-downloads.net/"
+            },
+            {
+              "name": "Startpage",
+              "url": "https://www.startpage.com/sp/search"
             }
           ]
         },
