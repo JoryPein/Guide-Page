@@ -771,15 +771,15 @@
           "name": "International",
           "list": [
             {
-              "name": "FairObserver",
+              "name": "Fair_Observer",
               "url": "https://www.fairobserver.com/"
             },
             {
-              "name": "YahooNews",
+              "name": "Yahoo_News",
               "url": "http://news.yahoo.com/"
             },
             {
-              "name": "TheGuardian",
+              "name": "The_Guardian",
               "url": "http://www.theguardian.com/us"
             },
             {
@@ -787,7 +787,7 @@
               "url": "https://www.reuters.com/"
             },
             {
-              "name": "FoxNews",
+              "name": "Fox_News",
               "url": "http://www.foxnews.com/"
             },
             {
@@ -799,40 +799,44 @@
               "url": "http://edition.cnn.com/"
             },
             {
-              "name": "NBCNews",
+              "name": "NBC_News",
               "url": "http://www.nbcnews.com/"
             },
             {
-              "name": "HuffingtonPost",
+              "name": "Huffington_Post",
               "url": "http://www.huffingtonpost.com/"
             },
             {
-              "name": "WashingtonPost",
+              "name": "Washington_Post",
               "url": "https://www.washingtonpost.com/"
             },
             {
-              "name": "WallStreet",
+              "name": "Wall_Street",
               "url": "http://www.wsj.com/"
             },
             {
-              "name": "LeFigaro",
+              "name": "Le_Figaro",
               "url": "http://www.lefigaro.fr/"
             },
             {
-              "name": "Al Jazeera",
+              "name": "Al_Jazeera",
               "url": "http://www.aljazeera.com/"
             },
             {
-              "name": "EL MUNDO",
+              "name": "EL_MUNDO",
               "url": "http://www.elmundo.es/"
             },
             {
-              "name": "The Sunday Times",
+              "name": "The_Sunday_Times",
               "url": "https://www.thetimes.co.uk"
             },
             {
-              "name": "Straits Times",
+              "name": "Straits_Times",
               "url": "https://www.straitstimes.com"
+            },
+            {
+              "name": "NPR_news",
+              "url": "https://www.npr.org/sections/news/"
             }
           ]
         },
