@@ -844,7 +844,7 @@
           "name": "Japan",
           "list": [
             {
-              "name": "NHK WORLD",
+              "name": "NHK_WORLD",
               "url": "https://www3.nhk.or.jp/nhkworld/"
             },
             {
@@ -852,7 +852,7 @@
               "url": "http://www.asahi.com/"
             },
             {
-              "name": "NHK News",
+              "name": "NHK_News",
               "url": "http://www3.nhk.or.jp/news/"
             },
             {
@@ -860,8 +860,8 @@
               "url": "https://www.yomiuri.co.jp/"
             },
             {
-              "name": "NAVER まとめ",
-              "url": "https://matome.naver.jp/"
+              "name": "Kyodo_News+",
+              "url": "https://english.kyodonews.net/news"
             }
           ]
         },
