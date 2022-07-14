@@ -466,6 +466,10 @@
             {
               "name": "regex101",
               "url": "https://regex101.com/"
+            },
+            {
+              "name": "diagrams",
+              "url": "https://app.diagrams.net/"
             }
           ]
         },
