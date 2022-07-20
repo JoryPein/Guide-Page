@@ -470,6 +470,10 @@
             {
               "name": "diagrams",
               "url": "https://app.diagrams.net/"
+            },
+            {
+              "name": "Google_Docs",
+              "url": "https://docs.google.com/"
             }
           ]
         },
